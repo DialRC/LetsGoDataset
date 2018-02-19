@@ -107,7 +107,7 @@ The log file can be found in the directory [`./annotations/letsgo_transcript_200
 ### Let's Go Daily Report 2006 - 2016
 The Let's Go Daily Report 2006 - 2016 provides the statistics of the Let's Go bus information system each day that it was deployed from 2006 to 2016. It also includes the weekly summary. (the links in each file)
 
-The emails reside in the project repository under [`./emails`](./emails) directory.
+The emails reside in the project repository under [`./emails`](https://github.com/DialRC/LetsGoDataset/tree/master/emails) directory.
 
 ## Download
 
