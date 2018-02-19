@@ -24,9 +24,7 @@ There are eight important components from the corpus available for you to downlo
 * The complete Let's Go dataset
 * Subset - The Spoken Dialog Challenge
 * Subset - Dialog State Tracking Challenge (DSTC1)
-* Code of the original Let's Go system
 * Log of Events and System Changes
-* Dialog Act Annotations 
 * Crowdsourced Annotations from one year of Let's Go data 
 * Let's Go Daily Report 2006 - 2016
 
@@ -96,20 +94,10 @@ DSTC1 used human-computer dialogs in the CMU Let’s Go Bus Information system.
 
 To download DSTC1 data, please go to <https://www.microsoft.com/en-us/research/event/dialog-state-tracking-challenge/>
 
-### Code of the original Let's Go system
-The code base for the CMU Let’s Go Bus Information system.
-
-Please stay tuned for the code base.
-
 ### Log of Events and System Changes
 An excel file that describes all significant changes to the system and events such as challenges that occurred.
 
 The log file can be found in the directory [`./changelog/overall_lg_map.current.xls`](./changelog/overall_lg_map.current.xls).
-
-### Dialog Act Annotations 
-The dialog act annotations for utterances in each dialog from 2008 to 2009
-
-Please stay tunned for the annotation.
 
 ### Crowdsourced Annotations from one year of Let's Go data 
 This contains word transcriptions of each dialog from 200810 to 200909. It includes the WAV file id, ASR outputs with confidence, and crowdsourced transcriptions with confidence. (Parent et al. 2010)
