@@ -1,0 +1,46 @@
+LetsGoPublic statistics for 20140613
+----------------------------------------------
+
+Number of sessions: 45   [25.8-64.1] (44.9 14.74 0.00)
+Number of no-turn sessions: 16
+Number of sessions >=3D 4 turns: 25   [20.4-52.4] (36.4 12.34 -0.92)
+Average number of turns per sessions:  11.0   [9.6-16.1] (12.8 2.51 -0.74)
+
+Number of estimated successes: 24 (96.0 %)   [62.5-90.3] (76.4 10.69 1.84)
+
+Number of sessions with backend fail code 15: 0
+
+20140613 had 170 posted detours
+
+Number of Tiramisu lookups...................: 10
+Number of Tiramisu time information..........: 0
+Number of Tiramisu fullness information......: 1
+Number of Tiramisu time/fullness information.: 0
+Number of detour information provided........: 1
+
+Provided detour information breakdown:
+
+001 :
+S:  {s} The schedule says 83 leaves LIBERTY AVENUE AT MARKET STREET at 7:15=
+ p.m. {/s} {s} and arrives at SEVENTH AVENUE AT WILLIAM PENN PLACE at 7:18 =
+p.m.. {/s} {s} The arrival place may be affected by detours. Penn at Eighth=
+, Penn at Seventh Street, Stanwix opp Fourth, Grant at Firstside Park, Gran=
+t at Third, Grant opp Oliver, Grant at USSteel Tower Stop A, Grant at Post =
+Office- Court House, Liberty at Amtrak will be available instead. {/s}
+
+Detour information sourced from:
+http://www.portauthority.org/paac/apps/DetoursDNN/pgDetours.asp?mode=3Dall
+
+View logs: http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20140613/index=
+.html
+
+More information at: http://huron.lti.cs.cmu.edu/index.html
+
+             136 Dir(s)  17,439,551,488 bytes free on Z:\FabrizioLGP-Curren=
+t\LetsGoInc\logs\LetsGoPublic
+
+
+The numbers shown are 80% range, mean, standard deviation, and z-score,
+respectively, for this day of the week.  Numbers are computed since April
+2007, upon moving to the Olympus2 system.  Potential outlier values should
+be noted when the z-score has a magnitude greater than 1.3 (80% interval).

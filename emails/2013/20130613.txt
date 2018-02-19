@@ -1,0 +1,44 @@
+LetsGoPublic statistics for 20130613
+----------------------------------------------
+
+Number of sessions: 42   [20.2-57.2] (38.7 14.22 0.23)
+Number of no-turn sessions: 6
+Number of sessions >=3D 4 turns: 33   [15.6-46.9] (31.2 12.04 0.15)
+Average number of turns per sessions:  12.3   [9.1-16.6] (12.8 2.90 -0.18)
+
+Number of estimated successes: 30 (90.9 %)   [61.6-87.7] (74.6 10.01 1.62)
+
+Number of sessions with backend fail code 15: 0
+
+20130613 had 182 posted detours
+
+Number of Tiramisu lookups...................: 16
+Number of Tiramisu time information..........: 0
+Number of Tiramisu fullness information......: 1
+Number of Tiramisu time/fullness information.: 0
+Number of detour information provided........: 1
+
+Provided detour information breakdown:
+
+001 :
+S:  {s} The schedule says there is a 51 leaving BROWNSVILLE ROAD OPPOSITE S=
+CENERIDGE AVENUE at 11:31 p.m. {/s} {s} It will arrive at FORT PITT BOULEVA=
+RD AT SMITHFIELD STREET at 11:58 p.m.. {/s} {s} The arrival place may be af=
+fected by detours. Smithfield at First will be available instead. {/s}
+
+Detour information sourced from:
+http://www.portauthority.org/paac/apps/DetoursDNN/pgDetours.asp?mode=3Dall
+
+View logs: http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20130613/index=
+.html
+
+More information at: http://huron.lti.cs.cmu.edu/index.html
+
+             222 Dir(s)  16,706,744,320 bytes free on Z:\LGP-Current\LetsGo=
+INC\logs\LetsGoPublic
+
+
+The numbers shown are 80% range, mean, standard deviation, and z-score,
+respectively, for this day of the week.  Numbers are computed since April
+2007, upon moving to the Olympus2 system.  Potential outlier values should
+be noted when the z-score has a magnitude greater than 1.3 (80% interval).

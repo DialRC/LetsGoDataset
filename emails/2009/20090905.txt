@@ -1,0 +1,43 @@
+LetsGoPublic statistics for 20090905
+----------------------------------------------
+
+Number of sessions: 114   [58.3-131.3] (94.8 28.09 0.68)
+Number of no-turn sessions: 4
+Number of sessions >=3D 4 turns: 95   [45.8-103.8] (74.8 22.31 0.90)
+Average number of turns per sessions:  14.9   [10.1-16.2] (13.2 2.35 0.73)
+
+Number of estimated successes: 67 (70.5 %)  [62.5-84.6] (73.5 8.52 -0.36)
+
+Number of sessions with backend fail code 15: 9
+   http://accent.speech.cs.cmu.edu/data/LetsGoPublic2/20090905/024/index.ht=
+ml
+   http://accent.speech.cs.cmu.edu/data/LetsGoPublic2/20090905/026/index.ht=
+ml
+   http://accent.speech.cs.cmu.edu/data/LetsGoPublic2/20090905/033/index.ht=
+ml
+   http://accent.speech.cs.cmu.edu/data/LetsGoPublic2/20090905/048/index.ht=
+ml
+   http://accent.speech.cs.cmu.edu/data/LetsGoPublic2/20090905/066/index.ht=
+ml
+   http://accent.speech.cs.cmu.edu/data/LetsGoPublic2/20090905/080/index.ht=
+ml
+   http://accent.speech.cs.cmu.edu/data/LetsGoPublic2/20090905/084/index.ht=
+ml
+   http://accent.speech.cs.cmu.edu/data/LetsGoPublic2/20090905/089/index.ht=
+ml
+   http://accent.speech.cs.cmu.edu/data/LetsGoPublic2/20090905/095/index.ht=
+ml
+
+View logs: http://accent.speech.cs.cmu.edu/data/LetsGoPublic2/20090905/inde=
+x.html
+
+More information at: http://accent.speech.cs.cmu.edu/index.html
+
+             100 Dir(s)  74,423,087,104 bytes free on Y:\logs\LetsGoPublic
+
+
+The numbers shown are 80% range, mean, standard deviation, and z-score,
+respectively, for this day of the week.  Numbers are computed since April
+2007, upon moving to the Olympus2 system.  Potential outlier values should
+be noted when the z-score has a magnitude greater than 1.3 (80% interval).
+

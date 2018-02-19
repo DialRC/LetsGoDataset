@@ -1,0 +1,28 @@
+LetsGoPublic statistics for 20101023
+----------------------------------------------
+
+Number of sessions: 55=20=20=20
+Number of no-turn sessions: 4
+Number of sessions >=3D 4 turns: 46=20=20=20
+Average number of turns per sessions:  10.6=20=20=20
+
+Number of estimated successes: 27 (58.7 %)=20=20
+
+Number of sessions with backend fail code 15: 6
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101023/000/index.html
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101023/016/index.html
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101023/017/index.html
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101023/021/index.html
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101023/033/index.html
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101023/049/index.html
+
+View logs: http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101023/index=
+.html
+
+More information at: http://clark.speech.cs.cmu.edu/index.html
+
+             103 Dir(s)  200,875,765,760 bytes free on W:\logs\LetsGoPublic
+
+
+
+

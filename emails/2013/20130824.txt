@@ -1,0 +1,85 @@
+LetsGoPublic statistics for 20130824
+----------------------------------------------
+
+Number of sessions: 107=20=20=20
+Number of no-turn sessions: 20
+Number of sessions >=3D 4 turns: 81=20=20=20
+Average number of turns per sessions:  11.1=20=20=20
+
+Number of estimated successes: 72 (88.9 %)=20=20=20
+
+Number of sessions with backend fail code 15: 0
+
+20130824 had 084 posted detours
+
+Number of Tiramisu lookups...................: 58
+Number of Tiramisu time information..........: 0
+Number of Tiramisu fullness information......: 8
+Number of Tiramisu time/fullness information.: 0
+Number of detour information provided........: 8
+
+Provided detour information breakdown:
+
+001 :
+S:  {s} There is a 28X leaving SEVENTH AVENUE AT SMITHFIELD STREET at 12:40=
+ p.m.. {/s} {s} It will arrive at WEST BUSWAY AT SHERADEN STATION B at 12:5=
+1 p.m.. {/s} {s} The arrival place may be affected by detours. Mansfield at=
+ Arch, Mansfield opp Chartiers will be available instead. {/s}
+
+001 :
+S:  {s} There is a G2 leaving SEVENTH AVENUE AT SMITHFIELD STREET at 11:23 =
+a.m.. {/s} {s} It will arrive at WEST BUSWAY AT SHERADEN STATION A at 11:34=
+ a.m.. {/s} {s} The arrival place may be affected by detours. Mansfield at =
+Arch, Mansfield opp Chartiers will be available instead. {/s}
+
+001 :
+S:  {s} The schedule says there is a G2 leaving SEVENTH AVENUE AT SMITHFIEL=
+D STREET at 7:38 a.m. {/s} {s} It will arrive at WEST CARSON STREET OPPOSIT=
+E DUQUESNE INCLINE at 7:45 a.m.. {/s} {s} The arrival place may be affected=
+ by detours. Mansfield at Arch, Mansfield opp Chartiers will be available i=
+nstead. {/s}
+
+001 :
+S:  {s} There is a G2 leaving SEVENTH AVENUE AT SMITHFIELD STREET at 12:53 =
+p.m.. {/s} {s} It will arrive at WEST BUSWAY AT SHERADEN STATION A at 1:04 =
+p.m.. {/s} {s} The arrival place may be affected by detours. Mansfield at A=
+rch, Mansfield opp Chartiers will be available instead. {/s}
+
+001 :
+S:  {s} There is a 28X leaving SEVENTH AVENUE AT SMITHFIELD STREET at 11:40=
+ a.m.. {/s} {s} It will arrive at WEST BUSWAY AT SHERADEN STATION B at 11:5=
+1 a.m.. {/s} {s} The arrival place may be affected by detours. Mansfield at=
+ Arch, Mansfield opp Chartiers will be available instead. {/s}
+
+001 :
+S:  {s} The schedule says there is a 28X leaving SEVENTH AVENUE AT SMITHFIE=
+LD STREET at 11:10 a.m. {/s} {s} It will arrive at WEST BUSWAY AT SHERADEN =
+STATION B at 11:21 a.m.. {/s} {s} The arrival place may be affected by deto=
+urs. Mansfield at Arch, Mansfield opp Chartiers will be available instead. =
+{/s}
+
+001 :
+S:  {s} There is a G2 leaving SEVENTH AVENUE AT SMITHFIELD STREET at 12:08 =
+p.m.. {/s} {s} It will arrive at WEST BUSWAY AT SHERADEN STATION A at 12:19=
+ p.m.. {/s} {s} The arrival place may be affected by detours. Mansfield at =
+Arch, Mansfield opp Chartiers will be available instead. {/s}
+
+001 :
+S:  {s} There is a 28X leaving SEVENTH AVENUE AT SMITHFIELD STREET at 12:10=
+ p.m.. {/s} {s} It will arrive at WEST BUSWAY AT SHERADEN STATION B at 12:2=
+1 p.m.. {/s} {s} The arrival place may be affected by detours. Mansfield at=
+ Arch, Mansfield opp Chartiers will be available instead. {/s}
+
+Detour information sourced from:
+http://www.portauthority.org/paac/apps/DetoursDNN/pgDetours.asp?mode=3Dall
+
+View logs: http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20130824/index=
+.html
+
+More information at: http://huron.lti.cs.cmu.edu/index.html
+
+             232 Dir(s)   9,991,811,072 bytes free on Z:\LGP-Current\LetsGo=
+INC\logs\LetsGoPublic
+
+
+

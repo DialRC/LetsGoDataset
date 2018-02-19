@@ -1,0 +1,45 @@
+LetsGoPublic statistics for 20130331
+----------------------------------------------
+
+Number of sessions: 82   [45.9-110.0] (78.0 24.67 0.16)
+Number of no-turn sessions: 6
+Number of sessions >=3D 4 turns: 67   [36.6-91.0] (63.8 20.89 0.15)
+Average number of turns per sessions:  15.8   [10.3-16.2] (13.3 2.29 1.10)
+
+Number of estimated successes: 62 (92.5 %)   [62.1-85.0] (73.5 8.78 2.16)
+
+Number of sessions with backend fail code 15: 0
+
+20130331 had 059 posted detours
+
+Number of Tiramisu lookups...................: 38
+Number of Tiramisu time information..........: 0
+Number of Tiramisu fullness information......: 1
+Number of Tiramisu time/fullness information.: 0
+Number of detour information provided........: 1
+
+Provided detour information breakdown:
+
+001 :
+S:  {s} The schedule says there is a 51 leaving EAST CARSON STREET AT SEVEN=
+TH STREET at 8:01 p.m. {/s} {s} It will arrive at WOOD STREET AT FORBES AVE=
+NUE at 8:10 p.m.. {/s} {s} The departure place may be affected by detours. =
+Wood Street Bus Lane at Blvd of the Allies, Fifth at Wood will be available=
+ instead. {/s}
+
+Detour information sourced from:
+http://www.portauthority.org/paac/apps/DetoursDNN/pgDetours.asp?mode=3Dall
+
+View logs: http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20130331/index=
+.html
+
+More information at: http://huron.lti.cs.cmu.edu/index.html
+
+             148 Dir(s)  68,761,055,232 bytes free on Z:\LGP-Current\LetsGo=
+INC\logs\LetsGoPublic
+
+
+The numbers shown are 80% range, mean, standard deviation, and z-score,
+respectively, for this day of the week.  Numbers are computed since April
+2007, upon moving to the Olympus2 system.  Potential outlier values should
+be noted when the z-score has a magnitude greater than 1.3 (80% interval).

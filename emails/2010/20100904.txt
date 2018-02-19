@@ -1,0 +1,44 @@
+LetsGoPublic statistics for 20100904-20100908
+----------------------------------------------
+
+Number of sessions: 334=20=20=20
+Number of no-turn sessions: 19
+Number of sessions >=3D 4 turns: 248=20=20=20
+Average number of turns per sessions:  11.3=20=20=20
+
+Number of estimated successes: 157 (63.3 %)=20=20
+
+Number of sessions with backend fail code 15: 11
+   http://accent.speech.cs.cmu.edu/data/LetsGoPublic2/20100904/012/index.ht=
+ml
+   http://accent.speech.cs.cmu.edu/data/LetsGoPublic2/20100904/030/index.ht=
+ml
+   http://accent.speech.cs.cmu.edu/data/LetsGoPublic2/20100904/043/index.ht=
+ml
+   http://accent.speech.cs.cmu.edu/data/LetsGoPublic2/20100904/061/index.ht=
+ml
+   http://accent.speech.cs.cmu.edu/data/LetsGoPublic2/20100905/002/index.ht=
+ml
+   http://accent.speech.cs.cmu.edu/data/LetsGoPublic2/20100905/020/index.ht=
+ml
+   http://accent.speech.cs.cmu.edu/data/LetsGoPublic2/20100905/037/index.ht=
+ml
+   http://accent.speech.cs.cmu.edu/data/LetsGoPublic2/20100905/078/index.ht=
+ml
+   http://accent.speech.cs.cmu.edu/data/LetsGoPublic2/20100905/085/index.ht=
+ml
+   http://accent.speech.cs.cmu.edu/data/LetsGoPublic2/20100907/033/index.ht=
+ml
+   http://accent.speech.cs.cmu.edu/data/LetsGoPublic2/20100907/048/index.ht=
+ml
+
+View logs: http://accent.speech.cs.cmu.edu/data/LetsGoPublic2/20100904/inde=
+x.html
+
+More information at: http://accent.speech.cs.cmu.edu/index.html
+
+              59 Dir(s)  342,065,926,144 bytes free on W:\logs\LetsGoPublic
+
+
+
+

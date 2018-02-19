@@ -1,0 +1,33 @@
+LetsGoPublic statistics for 20101030
+----------------------------------------------
+
+Number of sessions: 99   [57.8-133.8] (95.8 29.25 0.11)
+Number of no-turn sessions: 6
+Number of sessions >=3D 4 turns: 83   [45.5-107.3] (76.4 23.75 0.28)
+Average number of turns per sessions:  12.2   [10.2-16.1] (13.1 2.28 -0.41)
+
+Number of estimated successes: 49 (59.0 %)  [62.8-84.5] (73.6 8.34 -1.75)
+
+Number of sessions with backend fail code 15: 8
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101030/016/index.html
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101030/022/index.html
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101030/031/index.html
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101030/032/index.html
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101030/048/index.html
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101030/079/index.html
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101030/103/index.html
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101030/107/index.html
+
+View logs: http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101030/index=
+.html
+
+More information at: http://clark.speech.cs.cmu.edu/index.html
+
+             110 Dir(s)  196,049,895,424 bytes free on W:\logs\LetsGoPublic
+
+
+The numbers shown are 80% range, mean, standard deviation, and z-score,
+respectively, for this day of the week.  Numbers are computed since April
+2007, upon moving to the Olympus2 system.  Potential outlier values should
+be noted when the z-score has a magnitude greater than 1.3 (80% interval).
+

@@ -1,0 +1,43 @@
+LetsGoPublic statistics for 20141118
+----------------------------------------------
+
+Number of sessions: 50   [21.8-56.6] (39.2 13.38 0.81)
+Number of no-turn sessions: 28
+Number of sessions >=3D 4 turns: 20   [18.0-45.3] (31.6 10.51 -1.11)
+Average number of turns per sessions:  4.7   [9.4-16.8] (13.1 2.85 -2.93)
+
+Number of estimated successes: 18 (90.0 %)   [62.7-91.8] (77.3 11.17 1.14)
+
+Number of sessions with backend fail code 15: 0
+
+NOTE: SYSTEM IS NOW PUBLIC 24 HOURS A DAY.
+End of previously public hours: 800=20
+Beginning of previously public hours: 1630
+Number of sessions outside of previously public hours: 27
+
+20141118 had 144 posted detours
+
+Number of Tiramisu lookups...................: 8
+Number of Tiramisu time information..........: 0
+Number of Tiramisu fullness information......: 0
+Number of Tiramisu time/fullness information.: 0
+Number of detour information provided........: 0
+
+Provided detour information breakdown:
+
+Detour information sourced from:
+http://www.portauthority.org/paac/apps/DetoursDNN/pgDetours.asp?mode=3Dall
+
+View logs: http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20141118/index=
+.html
+
+More information at: http://huron.lti.cs.cmu.edu/index.html
+
+             205 Dir(s)  40,353,513,472 bytes free on Z:\FabrizioLGP-Curren=
+t\LetsGoInc\logs\LetsGoPublic
+
+
+The numbers shown are 80% range, mean, standard deviation, and z-score,
+respectively, for this day of the week.  Numbers are computed since April
+2007, upon moving to the Olympus2 system.  Potential outlier values should
+be noted when the z-score has a magnitude greater than 1.3 (80% interval).

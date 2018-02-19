@@ -1,0 +1,33 @@
+LetsGoPublic statistics for 20091229
+----------------------------------------------
+
+Number of sessions: 48   [26.9-54.5] (40.7 10.62 0.68)
+Number of no-turn sessions: 2
+Number of sessions >=3D 4 turns: 41   [21.3-45.6] (33.5 9.34 0.80)
+Average number of turns per sessions:  13.1   [10.1-17.1] (13.6 2.68 -0.19)
+
+Number of estimated successes: 28 (68.3 %)  [62.1-86.0] (74.1 9.19 -0.63)
+
+Number of sessions with backend fail code 15: 4
+   http://accent.speech.cs.cmu.edu/data/LetsGoPublic2/20091229/022/index.ht=
+ml
+   http://accent.speech.cs.cmu.edu/data/LetsGoPublic2/20091229/024/index.ht=
+ml
+   http://accent.speech.cs.cmu.edu/data/LetsGoPublic2/20091229/031/index.ht=
+ml
+   http://accent.speech.cs.cmu.edu/data/LetsGoPublic2/20091229/035/index.ht=
+ml
+
+View logs: http://accent.speech.cs.cmu.edu/data/LetsGoPublic2/20091229/inde=
+x.html
+
+More information at: http://accent.speech.cs.cmu.edu/index.html
+
+             154 Dir(s)  27,262,103,552 bytes free on Y:\logs\LetsGoPublic
+
+
+The numbers shown are 80% range, mean, standard deviation, and z-score,
+respectively, for this day of the week.  Numbers are computed since April
+2007, upon moving to the Olympus2 system.  Potential outlier values should
+be noted when the z-score has a magnitude greater than 1.3 (80% interval).
+

@@ -1,0 +1,449 @@
+LetsGoPublic statistics for 20100928
+----------------------------------------------
+
+Number of sessions: 34
+Number of no-turn sessions: 1
+Number of sessions >= 4 turns: 30
+Average number of turns per sessions:  14.9
+
+Number of estimated successes: 24 (80.0 %)
+
+Number of sessions with backend fail code 15: 1
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20100928/005/index.html
+
+View logs:
+http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20100928/index.html
+
+More information at: http://clark.speech.cs.cmu.edu/index.html
+
+              87 Dir(s)  319,517,540,352 bytes free on W:\logs\LetsGoPublic
+
+
+
+LetsGoPublic statistics for 20100929
+----------------------------------------------
+
+Number of sessions: 30
+Number of no-turn sessions: 1
+Number of sessions >= 4 turns: 28
+Average number of turns per sessions:  16.8
+
+Number of estimated successes: 20 (71.4 %)
+
+Number of sessions with backend fail code 15: 5
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20100929/008/index.html
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20100929/021/index.html
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20100929/022/index.html
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20100929/030/index.html
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20100929/035/index.html
+
+View logs:
+http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20100929/index.html
+
+More information at: http://clark.speech.cs.cmu.edu/index.html
+
+              87 Dir(s)  319,517,540,352 bytes free on W:\logs\LetsGoPublic
+
+
+LetsGoPublic statistics for 20100930
+----------------------------------------------
+
+Number of sessions: 33
+Number of no-turn sessions: 1
+Number of sessions >= 4 turns: 31
+Average number of turns per sessions:  16.8
+
+Number of estimated successes: 23 (74.2 %)
+
+Number of sessions with backend fail code 15: 2
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20100930/016/index.html
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20100930/024/index.html
+
+View logs:
+http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20100930/index.html
+
+More information at: http://clark.speech.cs.cmu.edu/index.html
+
+              87 Dir(s)  319,517,540,352 bytes free on W:\logs\LetsGoPublic
+
+
+
+LetsGoPublic statistics for 20101001
+----------------------------------------------
+
+Number of sessions: 26
+Number of no-turn sessions: 0
+Number of sessions >= 4 turns: 17
+Average number of turns per sessions:  8.2
+
+Number of estimated successes: 5 (29.4 %)
+
+Number of sessions with backend fail code 15: 2
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101001/004/index.html
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101001/028/index.html
+
+View logs:
+http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101001/index.html
+
+More information at: http://clark.speech.cs.cmu.edu/index.html
+
+              87 Dir(s)  319,517,540,352 bytes free on W:\logs\LetsGoPublic
+
+
+LetsGoPublic statistics for 20101002
+----------------------------------------------
+
+Number of sessions: 109
+Number of no-turn sessions: 7
+Number of sessions >= 4 turns: 95
+Average number of turns per sessions:  14.1
+
+Number of estimated successes: 54 (56.8 %)
+
+Number of sessions with backend fail code 15: 7
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101002/009/index.html
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101002/020/index.html
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101002/021/index.html
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101002/032/index.html
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101002/069/index.html
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101002/078/index.html
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101002/095/index.html
+
+View logs:
+http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101002/index.html
+
+More information at: http://clark.speech.cs.cmu.edu/index.html
+
+              87 Dir(s)  319,517,540,352 bytes free on W:\logs\LetsGoPublic
+
+
+LetsGoPublic statistics for 20101003
+----------------------------------------------
+
+Number of sessions: 59
+Number of no-turn sessions: 2
+Number of sessions >= 4 turns: 48
+Average number of turns per sessions:  12.9
+
+Number of estimated successes: 29 (60.4 %)
+
+Number of sessions with backend fail code 15: 4
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101003/005/index.html
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101003/007/index.html
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101003/008/index.html
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101003/062/index.html
+
+View logs:
+http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101003/index.html
+
+More information at: http://clark.speech.cs.cmu.edu/index.html
+
+              87 Dir(s)  319,517,540,352 bytes free on W:\logs\LetsGoPublic
+
+
+
+LetsGoPublic statistics for 20101004
+----------------------------------------------
+
+Number of sessions: 35
+Number of no-turn sessions: 3
+Number of sessions >= 4 turns: 31
+Average number of turns per sessions:  14.5
+
+Number of estimated successes: 18 (58.1 %)
+
+Number of sessions with backend fail code 15: 7
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101004/013/index.html
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101004/014/index.html
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101004/015/index.html
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101004/020/index.html
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101004/030/index.html
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101004/032/index.html
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101004/037/index.html
+
+View logs:
+http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101004/index.html
+
+More information at: http://clark.speech.cs.cmu.edu/index.html
+
+              87 Dir(s)  319,517,540,352 bytes free on W:\logs\LetsGoPublic
+
+
+
+LetsGoPublic statistics for 20101005
+----------------------------------------------
+
+Number of sessions: 20
+Number of no-turn sessions: 0
+Number of sessions >= 4 turns: 18
+Average number of turns per sessions:  14.6
+
+Number of estimated successes: 12 (66.7 %)
+
+Number of sessions with backend fail code 15: 1
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101005/019/index.html
+
+View logs:
+http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101005/index.html
+
+More information at: http://clark.speech.cs.cmu.edu/index.html
+
+              87 Dir(s)  319,517,540,352 bytes free on W:\logs\LetsGoPublic
+
+
+
+LetsGoPublic statistics for 20101006
+----------------------------------------------
+
+Number of sessions: 31
+Number of no-turn sessions: 1
+Number of sessions >= 4 turns: 29
+Average number of turns per sessions:  14.7
+
+Number of estimated successes: 23 (79.3 %)
+
+Number of sessions with backend fail code 15: 3
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101006/000/index.html
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101006/010/index.html
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101006/012/index.html
+
+View logs:
+http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101006/index.html
+
+More information at: http://clark.speech.cs.cmu.edu/index.html
+
+              87 Dir(s)  319,517,540,352 bytes free on W:\logs\LetsGoPublic
+
+
+LetsGoPublic statistics for 20101007
+----------------------------------------------
+
+Number of sessions: 27
+Number of no-turn sessions: 0
+Number of sessions >= 4 turns: 24
+Average number of turns per sessions:  15.3
+
+Number of estimated successes: 14 (58.3 %)
+
+Number of sessions with backend fail code 15: 2
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101007/000/index.html
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101007/005/index.html
+
+View logs:
+http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101007/index.html
+
+More information at: http://clark.speech.cs.cmu.edu/index.html
+
+              87 Dir(s)  319,517,540,352 bytes free on W:\logs\LetsGoPublic
+
+--000325574d16f4c7ee04922106e9
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<br>LetsGoPublic statistics for 20100928<br>-------------------------------=
+---------------<br><br>Number of sessions: 34=A0=A0 <br>Number of no-turn s=
+essions: 1<br>Number of sessions &gt;=3D 4 turns: 30=A0=A0 <br>Average numb=
+er of turns per sessions:=A0 14.9=A0=A0 <br>
+<br>Number of estimated successes: 24 (80.0 %)=A0 <br><br>Number of session=
+s with backend fail code 15: 1<br>=A0=A0 <a href=3D"http://clark.speech.cs.=
+cmu.edu/data/LetsGoPublic2/20100928/005/index.html">http://clark.speech.cs.=
+cmu.edu/data/LetsGoPublic2/20100928/005/index.html</a><br>
+<br>View logs: <a href=3D"http://clark.speech.cs.cmu.edu/data/LetsGoPublic2=
+/20100928/index.html">http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/201=
+00928/index.html</a><br><br>More information at: <a href=3D"http://clark.sp=
+eech.cs.cmu.edu/index.html">http://clark.speech.cs.cmu.edu/index.html</a><b=
+r>
+<br>=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0 87 Dir(s)=A0 319,517,540,352 by=
+tes free on W:\logs\LetsGoPublic<br><br><br><br>LetsGoPublic statistics for=
+ 20100929<br>----------------------------------------------<br><br>Number o=
+f sessions: 30=A0=A0 <br>Number of no-turn sessions: 1<br>
+Number of sessions &gt;=3D 4 turns: 28=A0=A0 <br>Average number of turns pe=
+r sessions:=A0 16.8=A0=A0 <br><br>Number of estimated successes: 20 (71.4 %=
+)=A0 <br><br>Number of sessions with backend fail code 15: 5<br>=A0=A0 <a h=
+ref=3D"http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20100929/008/index=
+.html">http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20100929/008/index=
+.html</a><br>
+=A0=A0 <a href=3D"http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/2010092=
+9/021/index.html">http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/2010092=
+9/021/index.html</a><br>=A0=A0 <a href=3D"http://clark.speech.cs.cmu.edu/da=
+ta/LetsGoPublic2/20100929/022/index.html">http://clark.speech.cs.cmu.edu/da=
+ta/LetsGoPublic2/20100929/022/index.html</a><br>
+=A0=A0 <a href=3D"http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/2010092=
+9/030/index.html">http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/2010092=
+9/030/index.html</a><br>=A0=A0 <a href=3D"http://clark.speech.cs.cmu.edu/da=
+ta/LetsGoPublic2/20100929/035/index.html">http://clark.speech.cs.cmu.edu/da=
+ta/LetsGoPublic2/20100929/035/index.html</a><br>
+<br>View logs: <a href=3D"http://clark.speech.cs.cmu.edu/data/LetsGoPublic2=
+/20100929/index.html">http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/201=
+00929/index.html</a><br><br>More information at: <a href=3D"http://clark.sp=
+eech.cs.cmu.edu/index.html">http://clark.speech.cs.cmu.edu/index.html</a><b=
+r>
+<br>=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0 87 Dir(s)=A0 319,517,540,352 by=
+tes free on W:\logs\LetsGoPublic<br><br><br>LetsGoPublic statistics for 201=
+00930<br>----------------------------------------------<br><br>Number of se=
+ssions: 33=A0=A0 <br>Number of no-turn sessions: 1<br>
+Number of sessions &gt;=3D 4 turns: 31=A0=A0 <br>Average number of turns pe=
+r sessions:=A0 16.8=A0=A0 <br><br>Number of estimated successes: 23 (74.2 %=
+)=A0 <br><br>Number of sessions with backend fail code 15: 2<br>=A0=A0 <a h=
+ref=3D"http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20100930/016/index=
+.html">http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20100930/016/index=
+.html</a><br>
+=A0=A0 <a href=3D"http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/2010093=
+0/024/index.html">http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/2010093=
+0/024/index.html</a><br><br>View logs: <a href=3D"http://clark.speech.cs.cm=
+u.edu/data/LetsGoPublic2/20100930/index.html">http://clark.speech.cs.cmu.ed=
+u/data/LetsGoPublic2/20100930/index.html</a><br>
+<br>More information at: <a href=3D"http://clark.speech.cs.cmu.edu/index.ht=
+ml">http://clark.speech.cs.cmu.edu/index.html</a><br><br>=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0=A0 87 Dir(s)=A0 319,517,540,352 bytes free on W:\logs\Le=
+tsGoPublic<br><br><br><br>
+LetsGoPublic statistics for 20101001<br>-----------------------------------=
+-----------<br><br>Number of sessions: 26=A0=A0 <br>Number of no-turn sessi=
+ons: 0<br>Number of sessions &gt;=3D 4 turns: 17=A0=A0 <br>Average number o=
+f turns per sessions:=A0 8.2=A0=A0 <br>
+<br>Number of estimated successes: 5 (29.4 %)=A0 <br><br>Number of sessions=
+ with backend fail code 15: 2<br>=A0=A0 <a href=3D"http://clark.speech.cs.c=
+mu.edu/data/LetsGoPublic2/20101001/004/index.html">http://clark.speech.cs.c=
+mu.edu/data/LetsGoPublic2/20101001/004/index.html</a><br>
+=A0=A0 <a href=3D"http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/2010100=
+1/028/index.html">http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/2010100=
+1/028/index.html</a><br><br>View logs: <a href=3D"http://clark.speech.cs.cm=
+u.edu/data/LetsGoPublic2/20101001/index.html">http://clark.speech.cs.cmu.ed=
+u/data/LetsGoPublic2/20101001/index.html</a><br>
+<br>More information at: <a href=3D"http://clark.speech.cs.cmu.edu/index.ht=
+ml">http://clark.speech.cs.cmu.edu/index.html</a><br><br>=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0=A0 87 Dir(s)=A0 319,517,540,352 bytes free on W:\logs\Le=
+tsGoPublic<br><br><br>LetsGoPublic statistics for 20101002<br>
+----------------------------------------------<br><br>Number of sessions: 1=
+09=A0=A0 <br>Number of no-turn sessions: 7<br>Number of sessions &gt;=3D 4 =
+turns: 95=A0=A0 <br>Average number of turns per sessions:=A0 14.1=A0=A0 <br=
+><br>Number of estimated successes: 54 (56.8 %)=A0 <br>
+<br>Number of sessions with backend fail code 15: 7<br>=A0=A0 <a href=3D"ht=
+tp://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101002/009/index.html">ht=
+tp://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101002/009/index.html</a>=
+<br>
+=A0=A0 <a href=3D"http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/2010100=
+2/020/index.html">http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/2010100=
+2/020/index.html</a><br>=A0=A0 <a href=3D"http://clark.speech.cs.cmu.edu/da=
+ta/LetsGoPublic2/20101002/021/index.html">http://clark.speech.cs.cmu.edu/da=
+ta/LetsGoPublic2/20101002/021/index.html</a><br>
+=A0=A0 <a href=3D"http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/2010100=
+2/032/index.html">http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/2010100=
+2/032/index.html</a><br>=A0=A0 <a href=3D"http://clark.speech.cs.cmu.edu/da=
+ta/LetsGoPublic2/20101002/069/index.html">http://clark.speech.cs.cmu.edu/da=
+ta/LetsGoPublic2/20101002/069/index.html</a><br>
+=A0=A0 <a href=3D"http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/2010100=
+2/078/index.html">http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/2010100=
+2/078/index.html</a><br>=A0=A0 <a href=3D"http://clark.speech.cs.cmu.edu/da=
+ta/LetsGoPublic2/20101002/095/index.html">http://clark.speech.cs.cmu.edu/da=
+ta/LetsGoPublic2/20101002/095/index.html</a><br>
+<br>View logs: <a href=3D"http://clark.speech.cs.cmu.edu/data/LetsGoPublic2=
+/20101002/index.html">http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/201=
+01002/index.html</a><br><br>More information at: <a href=3D"http://clark.sp=
+eech.cs.cmu.edu/index.html">http://clark.speech.cs.cmu.edu/index.html</a><b=
+r>
+<br>=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0 87 Dir(s)=A0 319,517,540,352 by=
+tes free on W:\logs\LetsGoPublic<br><br><br>LetsGoPublic statistics for 201=
+01003<br>----------------------------------------------<br><br>Number of se=
+ssions: 59=A0=A0 <br>Number of no-turn sessions: 2<br>
+Number of sessions &gt;=3D 4 turns: 48=A0=A0 <br>Average number of turns pe=
+r sessions:=A0 12.9=A0=A0 <br><br>Number of estimated successes: 29 (60.4 %=
+)=A0 <br><br>Number of sessions with backend fail code 15: 4<br>=A0=A0 <a h=
+ref=3D"http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101003/005/index=
+.html">http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101003/005/index=
+.html</a><br>
+=A0=A0 <a href=3D"http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/2010100=
+3/007/index.html">http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/2010100=
+3/007/index.html</a><br>=A0=A0 <a href=3D"http://clark.speech.cs.cmu.edu/da=
+ta/LetsGoPublic2/20101003/008/index.html">http://clark.speech.cs.cmu.edu/da=
+ta/LetsGoPublic2/20101003/008/index.html</a><br>
+=A0=A0 <a href=3D"http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/2010100=
+3/062/index.html">http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/2010100=
+3/062/index.html</a><br><br>View logs: <a href=3D"http://clark.speech.cs.cm=
+u.edu/data/LetsGoPublic2/20101003/index.html">http://clark.speech.cs.cmu.ed=
+u/data/LetsGoPublic2/20101003/index.html</a><br>
+<br>More information at: <a href=3D"http://clark.speech.cs.cmu.edu/index.ht=
+ml">http://clark.speech.cs.cmu.edu/index.html</a><br><br>=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0=A0 87 Dir(s)=A0 319,517,540,352 bytes free on W:\logs\Le=
+tsGoPublic<br><br><br><br>
+LetsGoPublic statistics for 20101004<br>-----------------------------------=
+-----------<br><br>Number of sessions: 35=A0=A0 <br>Number of no-turn sessi=
+ons: 3<br>Number of sessions &gt;=3D 4 turns: 31=A0=A0 <br>Average number o=
+f turns per sessions:=A0 14.5=A0=A0 <br>
+<br>Number of estimated successes: 18 (58.1 %)=A0 <br><br>Number of session=
+s with backend fail code 15: 7<br>=A0=A0 <a href=3D"http://clark.speech.cs.=
+cmu.edu/data/LetsGoPublic2/20101004/013/index.html">http://clark.speech.cs.=
+cmu.edu/data/LetsGoPublic2/20101004/013/index.html</a><br>
+=A0=A0 <a href=3D"http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/2010100=
+4/014/index.html">http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/2010100=
+4/014/index.html</a><br>=A0=A0 <a href=3D"http://clark.speech.cs.cmu.edu/da=
+ta/LetsGoPublic2/20101004/015/index.html">http://clark.speech.cs.cmu.edu/da=
+ta/LetsGoPublic2/20101004/015/index.html</a><br>
+=A0=A0 <a href=3D"http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/2010100=
+4/020/index.html">http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/2010100=
+4/020/index.html</a><br>=A0=A0 <a href=3D"http://clark.speech.cs.cmu.edu/da=
+ta/LetsGoPublic2/20101004/030/index.html">http://clark.speech.cs.cmu.edu/da=
+ta/LetsGoPublic2/20101004/030/index.html</a><br>
+=A0=A0 <a href=3D"http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/2010100=
+4/032/index.html">http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/2010100=
+4/032/index.html</a><br>=A0=A0 <a href=3D"http://clark.speech.cs.cmu.edu/da=
+ta/LetsGoPublic2/20101004/037/index.html">http://clark.speech.cs.cmu.edu/da=
+ta/LetsGoPublic2/20101004/037/index.html</a><br>
+<br>View logs: <a href=3D"http://clark.speech.cs.cmu.edu/data/LetsGoPublic2=
+/20101004/index.html">http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/201=
+01004/index.html</a><br><br>More information at: <a href=3D"http://clark.sp=
+eech.cs.cmu.edu/index.html">http://clark.speech.cs.cmu.edu/index.html</a><b=
+r>
+<br>=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0 87 Dir(s)=A0 319,517,540,352 by=
+tes free on W:\logs\LetsGoPublic<br><br><br><br>LetsGoPublic statistics for=
+ 20101005<br>----------------------------------------------<br><br>Number o=
+f sessions: 20=A0=A0 <br>Number of no-turn sessions: 0<br>
+Number of sessions &gt;=3D 4 turns: 18=A0=A0 <br>Average number of turns pe=
+r sessions:=A0 14.6=A0=A0 <br><br>Number of estimated successes: 12 (66.7 %=
+)=A0 <br><br>Number of sessions with backend fail code 15: 1<br>=A0=A0 <a h=
+ref=3D"http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101005/019/index=
+.html">http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101005/019/index=
+.html</a><br>
+<br>View logs: <a href=3D"http://clark.speech.cs.cmu.edu/data/LetsGoPublic2=
+/20101005/index.html">http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/201=
+01005/index.html</a><br><br>More information at: <a href=3D"http://clark.sp=
+eech.cs.cmu.edu/index.html">http://clark.speech.cs.cmu.edu/index.html</a><b=
+r>
+<br>=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0 87 Dir(s)=A0 319,517,540,352 by=
+tes free on W:\logs\LetsGoPublic<br><br><br><br>LetsGoPublic statistics for=
+ 20101006<br>----------------------------------------------<br><br>Number o=
+f sessions: 31=A0=A0 <br>Number of no-turn sessions: 1<br>
+Number of sessions &gt;=3D 4 turns: 29=A0=A0 <br>Average number of turns pe=
+r sessions:=A0 14.7=A0=A0 <br><br>Number of estimated successes: 23 (79.3 %=
+)=A0 <br><br>Number of sessions with backend fail code 15: 3<br>=A0=A0 <a h=
+ref=3D"http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101006/000/index=
+.html">http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101006/000/index=
+.html</a><br>
+=A0=A0 <a href=3D"http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/2010100=
+6/010/index.html">http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/2010100=
+6/010/index.html</a><br>=A0=A0 <a href=3D"http://clark.speech.cs.cmu.edu/da=
+ta/LetsGoPublic2/20101006/012/index.html">http://clark.speech.cs.cmu.edu/da=
+ta/LetsGoPublic2/20101006/012/index.html</a><br>
+<br>View logs: <a href=3D"http://clark.speech.cs.cmu.edu/data/LetsGoPublic2=
+/20101006/index.html">http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/201=
+01006/index.html</a><br><br>More information at: <a href=3D"http://clark.sp=
+eech.cs.cmu.edu/index.html">http://clark.speech.cs.cmu.edu/index.html</a><b=
+r>
+<br>=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0 87 Dir(s)=A0 319,517,540,352 by=
+tes free on W:\logs\LetsGoPublic<br><br><br>LetsGoPublic statistics for 201=
+01007<br>----------------------------------------------<br><br>Number of se=
+ssions: 27=A0=A0 <br>Number of no-turn sessions: 0<br>
+Number of sessions &gt;=3D 4 turns: 24=A0=A0 <br>Average number of turns pe=
+r sessions:=A0 15.3=A0=A0 <br><br>Number of estimated successes: 14 (58.3 %=
+)=A0 <br><br>Number of sessions with backend fail code 15: 2<br>=A0=A0 <a h=
+ref=3D"http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101007/000/index=
+.html">http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101007/000/index=
+.html</a><br>
+=A0=A0 <a href=3D"http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/2010100=
+7/005/index.html">http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/2010100=
+7/005/index.html</a><br><br>View logs: <a href=3D"http://clark.speech.cs.cm=
+u.edu/data/LetsGoPublic2/20101007/index.html">http://clark.speech.cs.cmu.ed=
+u/data/LetsGoPublic2/20101007/index.html</a><br>
+<br>More information at: <a href=3D"http://clark.speech.cs.cmu.edu/index.ht=
+ml">http://clark.speech.cs.cmu.edu/index.html</a><br><br>=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0=A0 87 Dir(s)=A0 319,517,540,352 bytes free on W:\logs\Le=

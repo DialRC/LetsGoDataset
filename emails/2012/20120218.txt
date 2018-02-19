@@ -1,0 +1,25 @@
+LetsGoPublic statistics for 20120218
+----------------------------------------------
+
+Number of sessions: 117
+Number of no-turn sessions: 17
+Number of sessions >= 4 turns: 91
+Average number of turns per sessions:  12.9
+
+Number of estimated successes: 70 (76.9 %)
+
+Number of sessions with backend fail code 15: 0
+
+View logs:
+http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20120218/index.html
+
+More information at: http://huron.lti.cs.cmu.edu/index.html
+
+              59 Dir(s)   7,766,925,312 bytes free on
+Z:\LGP-Current\Motungyidol\logs\LetsGoPublic
+
+
+
+
+NB: This is an automatically generated email. Contact
+sungjinl@andrew.cmu.edu for comments/requests.

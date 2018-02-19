@@ -1,0 +1,15 @@
+Let's Go system statistics for 20060824
+---------------------------------------
+
+Number of sessions: 16
+Number of no-turn sessions: 2
+Number of sessions >=3D 4 turns: 12
+Average number of turns per sessions:  10.4
+
+Number of estimated successes: 4 (33.3 %)
+
+View logs: http://accent.speech.cs.cmu.edu/data/LetsGoPublic/20060824/index=
+.html
+
+More statistics at: http://accent.speech.cs.cmu.edu/index.html
+

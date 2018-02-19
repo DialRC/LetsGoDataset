@@ -1,0 +1,63 @@
+LetsGoPublic statistics for 20140525
+----------------------------------------------
+
+Number of sessions: 92   [48.3-109.4] (78.9 23.50 0.56)
+Number of no-turn sessions: 14
+Number of sessions >=3D 4 turns: 69   [38.7-90.6] (64.6 19.98 0.22)
+Average number of turns per sessions:  12.6   [10.5-16.4] (13.4 2.26 -0.37)
+
+Number of estimated successes: 62 (89.9 %)   [62.6-90.3] (76.5 10.68 1.26)
+
+Number of sessions with backend fail code 15: 0
+
+20140525 had 037 posted detours
+
+Number of Tiramisu lookups...................: 54
+Number of Tiramisu time information..........: 0
+Number of Tiramisu fullness information......: 4
+Number of Tiramisu time/fullness information.: 0
+Number of detour information provided........: 4
+
+Provided detour information breakdown:
+
+001 :
+S:  {s} The schedule says there is a 1 leaving BUTLER STREET AT CENTER at 5=
+:07 p.m. {/s} {s} It will arrive at EAST FIFTH AVENUE AT ROSS at 6:04 p.m..=
+ {/s} {s} The departure place may be affected by detours. East Ohio at Gran=
+t, Freeport opp Western will be available instead. {/s}
+
+001 :
+S:  {s} The schedule says 59 leaves WHITAKER WAY OPPOSITE HIGHWOOD at 7:03 =
+p.m. {/s} {s} and arrives at DUQUESNE BOULEVARD AT MILLER at 7:20 p.m.. {/s=
+} {s} The departure place may be affected by detours. Mifflin at Whitaker w=
+ill be available instead. {/s}
+
+001 :
+S:  {s} There is a 59 leaving WHITAKER WAY AT HIGHWOOD at 6:28 p.m.. {/s} {=
+s} It will arrive at FOURTH AVENUE AT DUQUESNE STREET at 6:51 p.m.. {/s} {s=
+} The departure place may be affected by detours. Whitaker at Mifflin, Mono=
+ngahela will be available instead. {/s}
+
+001 :
+S:  {s} There is a 69 leaving FORBES ROAD AT MEADOW STREET at 5:34 p.m.. {/=
+s} {s} It will arrive at WALLACE AVENUE AT SWISSVALE at 6:09 p.m.. {/s} {s}=
+ The departure place may be affected by detours. Haymaker Village Parking L=
+ot Far End Of Fire Lane, Haymaker Village Exit Drive at Pitcairn-Trafford R=
+oad, Pitcairn-Trafford Road at Forbes Road will be available instead. {/s}
+
+Detour information sourced from:
+http://www.portauthority.org/paac/apps/DetoursDNN/pgDetours.asp?mode=3Dall
+
+View logs: http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20140525/index=
+.html
+
+More information at: http://huron.lti.cs.cmu.edu/index.html
+
+             148 Dir(s)   6,120,067,072 bytes free on Z:\FabrizioLGP-Curren=
+t\LetsGoInc\logs\LetsGoPublic
+
+
+The numbers shown are 80% range, mean, standard deviation, and z-score,
+respectively, for this day of the week.  Numbers are computed since April
+2007, upon moving to the Olympus2 system.  Potential outlier values should
+be noted when the z-score has a magnitude greater than 1.3 (80% interval).

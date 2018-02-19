@@ -1,0 +1,61 @@
+LetsGoPublic statistics for 20110313
+----------------------------------------------
+
+Number of sessions: 48   [42.4-112.7] (77.5 27.04 -1.94)
+Number of no-turn sessions: 2
+Number of sessions >= 4 turns: 43   [34.7-93.4] (64.0 22.59 -1.90)
+Average number of turns per sessions:  15.2   [10.4-16.7] (13.6 2.44 0.84)
+
+Number of estimated successes: 25 (58.1 %)
+
+Number of sessions with backend fail code 15: 0
+
+View logs:
+http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20110313/index.html
+
+More information at: http://clark.speech.cs.cmu.edu/index.html
+
+            249 Dir(s)  39,615,201,280 bytes free on
+D:\Projects\LetsGoPublic\logs\LetsGoPublic
+
+
+
+
+NB: This is an automatically generated email. Contact gabeos@cs.cmu.edu for
+comments/requests.
+
+--00151744820801970f049e723483
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+LetsGoPublic statistics for 20110313<br><div class=3D"gmail_quote">
+----------------------------------------------<br>
+<br>
+Number of sessions: 48 =A0 [42.4-112.7] (77.5 27.04 -1.94)<br>
+Number of no-turn sessions: 2<br>
+Number of sessions &gt;=3D 4 turns: 43=A0=A0  [34.7-93.4] (64.0 22.59 -1.90=
+)<br>
+Average number of turns per sessions: =A015.2 =A0 [10.4-16.7] (13.6 2.44 0.=
+84)<br>
+<br>
+Number of estimated successes: 25 (58.1 %)<br>
+<br>
+Number of sessions with backend fail code 15: 0<br>
+<br>
+View logs: <a href=3D"http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/201=
+10313/index.html" target=3D"_blank">http://clark.speech.cs.cmu.edu/data/Let=
+sGoPublic2/20110313/index.html</a><br>
+<br>
+More information at: <a href=3D"http://clark.speech.cs.cmu.edu/index.html" =
+target=3D"_blank">http://clark.speech.cs.cmu.edu/index.html</a><br>
+<br>
+ =A0 =A0 =A0 =A0 =A0 =A0 249 Dir(s) =A039,615,201,280 bytes free on D:\Proj=
+ects\LetsGoPublic\logs\LetsGoPublic<br>
+<br>
+<br>
+<br>
+<br>
+NB: This is an automatically generated email. Contact <a href=3D"mailto:gab=
+eos@cs.cmu.edu" target=3D"_blank">gabeos@cs.cmu.edu</a> for comments/reques=
+ts.<br>
+<br>

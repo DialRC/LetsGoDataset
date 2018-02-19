@@ -1,0 +1,50 @@
+LetsGoPublic statistics for 20131213
+----------------------------------------------
+
+Number of sessions: 52   [47.4-109.6] (78.5 23.94 -1.11)
+Number of no-turn sessions: 4
+Number of sessions >=3D 4 turns: 45   [37.9-90.8] (64.3 20.35 -0.95)
+Average number of turns per sessions:  15.4   [10.4-16.4] (13.4 2.30 0.88)
+
+Number of estimated successes: 41 (91.1 %)   [62.3-87.7] (75.0 9.78 1.64)
+
+Number of sessions with backend fail code 15: 0
+
+20131213 had 026 posted detours
+
+Number of Tiramisu lookups...................: 26
+Number of Tiramisu time information..........: 0
+Number of Tiramisu fullness information......: 2
+Number of Tiramisu time/fullness information.: 0
+Number of detour information provided........: 2
+
+Provided detour information breakdown:
+
+001 :
+S:  {s} The schedule says 86 leaves WALLACE AVENUE AT WOOD STREET at 8:39 p=
+.m. {/s} {s} and arrives at CENTRE AVENUE AT NEGLEY AVENUE at 8:57 p.m.. {/=
+s} {s} The departure place may be affected by detours. Hay at Wallace, Hay =
+at Hill, Hay at Holmes, Susquehanna at Wood will be available instead. {/s}
+
+001 :
+S:  {s} The schedule says 24 leaves BROADWAY STREET AT CHARLES at 9:58 p.m.=
+ {/s} {s} and arrives at STANWIX STREET AT FOURTH AVENUE PPG PLACE at 10:20=
+ p.m.. {/s} {s} The departure place may be affected by detours. Chartiers o=
+pp Broadway will be available instead. {/s}
+
+Detour information sourced from:
+http://www.portauthority.org/paac/apps/DetoursDNN/pgDetours.asp?mode=3Dall
+
+View logs: http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20131213/index=
+.html
+
+More information at: http://huron.lti.cs.cmu.edu/index.html
+
+              74 Dir(s)      33,398,784 bytes free on Z:\FabrizioLGP-Curren=
+t\LetsGoInc\logs\LetsGoPublic
+
+
+The numbers shown are 80% range, mean, standard deviation, and z-score,
+respectively, for this day of the week.  Numbers are computed since April
+2007, upon moving to the Olympus2 system.  Potential outlier values should
+be noted when the z-score has a magnitude greater than 1.3 (80% interval).

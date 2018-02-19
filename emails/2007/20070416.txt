@@ -1,0 +1,14 @@
+LetsGoPublic statistics for 20070416
+----------------------------------------------
+
+Number of sessions: 53
+Number of no-turn sessions: 5
+Number of sessions >=3D 4 turns: 45
+Average number of turns per sessions:  13.0
+
+Number of estimated successes: 31 (68.9 %)
+
+View logs: http:///20070416/index.html
+
+More information at: http://
+

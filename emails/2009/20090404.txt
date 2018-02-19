@@ -1,0 +1,20 @@
+LetsGoPublic statistics for 20090404
+----------------------------------------------
+
+Number of sessions: 8
+Number of no-turn sessions: 0
+Number of sessions >=3D 4 turns: 8
+Average number of turns per sessions:  13.3
+
+Number of estimated successes: 3 (37.5 %)
+
+Number of sessions with backend fail code 15: 0
+
+View logs: http://accent.speech.cs.cmu.edu/data/LetsGoPublic2/20090404/inde=
+x.html
+
+More information at: http://accent.speech.cs.cmu.edu/index.html
+
+ on Y:\logs\LetsGoPublic
+
+

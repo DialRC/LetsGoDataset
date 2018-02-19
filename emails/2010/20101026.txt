@@ -1,0 +1,73 @@
+LetsGoPublic statistics for 20101026
+----------------------------------------------
+
+Number of sessions: 26   [25.2-54.8] (40.0 11.35 -1.23)
+Number of no-turn sessions: 5
+Number of sessions >= 4 turns: 19   [20.5-45.9] (33.2 9.79 -1.45)
+Average number of turns per sessions:  9.5   [10.1-17.3] (13.7 2.77 -1.51)
+
+Number of estimated successes: 12 (63.2 %)  [61.5-86.3] (73.9 9.54 -1.13)
+
+Number of sessions with backend fail code 15: 1
+  http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101026/002/index.html
+
+View logs:
+http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101026/index.html
+
+More information at: http://clark.speech.cs.cmu.edu/index.html
+
+            106 Dir(s)  199,420,686,336 bytes free on W:\logs\LetsGoPublic
+
+
+The numbers shown are 80% range, mean, standard deviation, and z-score,
+respectively, for this day of the week.  Numbers are computed since April
+2007, upon moving to the Olympus2 system.  Potential outlier values should
+be noted when the z-score has a magnitude greater than 1.3 (80% interval).
+
+NB: This is an automatically generated email. Contact gabeos@cs.cmu.edu for
+comments/requests.
+
+--0015174be008f833d704939b592b
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<br><div class=3D"gmail_quote">LetsGoPublic statistics for 20101026<br>
+----------------------------------------------<br>
+<br>
+Number of sessions: 26 =A0 [25.2-54.8] (40.0 11.35 -1.23)<br>
+Number of no-turn sessions: 5<br>
+Number of sessions &gt;=3D 4 turns: 19 =A0 [20.5-45.9] (33.2 9.79 -1.45)<br=
+>
+Average number of turns per sessions: =A09.5 =A0 [10.1-17.3] (13.7 2.77 -1.=
+51)<br>
+<br>
+Number of estimated successes: 12 (63.2 %) =A0[61.5-86.3] (73.9 9.54 -1.13)=
+<br>
+<br>
+Number of sessions with backend fail code 15: 1<br>
+ =A0 <a href=3D"http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101026/=
+002/index.html" target=3D"_blank">http://clark.speech.cs.cmu.edu/data/LetsG=
+oPublic2/20101026/002/index.html</a><br>
+<br>
+View logs: <a href=3D"http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/201=
+01026/index.html" target=3D"_blank">http://clark.speech.cs.cmu.edu/data/Let=
+sGoPublic2/20101026/index.html</a><br>
+<br>
+More information at: <a href=3D"http://clark.speech.cs.cmu.edu/index.html" =
+target=3D"_blank">http://clark.speech.cs.cmu.edu/index.html</a><br>
+<br>
+ =A0 =A0 =A0 =A0 =A0 =A0 106 Dir(s) =A0199,420,686,336 bytes free on W:\log=
+s\LetsGoPublic<br>
+<br>
+<br>
+The numbers shown are 80% range, mean, standard deviation, and z-score,<br>
+respectively, for this day of the week. =A0Numbers are computed since April=
+<br>
+2007, upon moving to the Olympus2 system. =A0Potential outlier values shoul=
+d<br>
+be noted when the z-score has a magnitude greater than 1.3 (80% interval).<=
+br>
+<br>
+NB: This is an automatically generated email. Contact <a href=3D"mailto:gab=
+eos@cs.cmu.edu">gabeos@cs.cmu.edu</a> for comments/requests.<br>
+<br>

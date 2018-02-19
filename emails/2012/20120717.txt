@@ -1,0 +1,22 @@
+LetsGoPublic statistics for 20120717
+----------------------------------------------
+
+Number of sessions: 52=20=20=20
+Number of no-turn sessions: 6
+Number of sessions >=3D 4 turns: 42=20=20=20
+Average number of turns per sessions:  10.6=20=20=20
+
+Number of estimated successes: 31 (73.8 %)=20=20=20
+
+Number of sessions with backend fail code 15: 0
+
+View logs: http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20120717/index=
+.html
+
+More information at: http://huron.lti.cs.cmu.edu/index.html
+
+              29 Dir(s)  41,828,945,920 bytes free on Z:\LGP-Current\LetsGo=
+Inc\logs\LetsGoPublic
+
+
+

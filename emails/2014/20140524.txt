@@ -1,0 +1,58 @@
+LetsGoPublic statistics for 20140524
+----------------------------------------------
+
+Number of sessions: 97   [61.3-132.5] (96.9 27.40 0.00)
+Number of no-turn sessions: 11
+Number of sessions >=3D 4 turns: 78   [47.9-106.2] (77.0 22.42 0.04)
+Average number of turns per sessions:  13.4   [10.2-15.5] (12.9 2.05 0.26)
+
+Number of estimated successes: 72 (92.3 %)   [63.4-89.1] (76.2 9.88 1.63)
+
+Number of sessions with backend fail code 15: 0
+
+20140524 had 080 posted detours
+
+Number of Tiramisu lookups...................: 66
+Number of Tiramisu time information..........: 0
+Number of Tiramisu fullness information......: 3
+Number of Tiramisu time/fullness information.: 0
+Number of detour information provided........: 3
+
+Provided detour information breakdown:
+
+001 :
+S:  {s} The schedule says there is a 69 leaving STATION STREET OPPOSITE HER=
+MAN at 9:01 p.m. {/s} {s} It will arrive at WALLACE AVENUE AT SWISSVALE at =
+9:23 p.m.. {/s} {s} The arrival place may be affected by detours. Wood at W=
+allace will be available instead. {/s}
+
+001 :
+S:  {s} The schedule says there is a 69 leaving PENN AVENUE OPPOSITE SHAW a=
+t 9:47 a.m. {/s} {s} It will arrive at FIFTH STREET AT BRINTON AVENUE at 10=
+:14 a.m.. {/s} {s} The arrival place may be affected by detours. Pitcairn-T=
+rafford Road at Haymaker Village Entrance Drive, Haymaker Village Parking L=
+ot at End Of Fire Lane will be available instead. {/s}
+
+001 :
+S:  {s} There is a 69 leaving PENN AVENUE OPPOSITE SHAW at 8:17 a.m.. {/s} =
+{s} It will arrive at FIFTH STREET AT BRINTON AVENUE at 8:42 a.m.. {/s} {s}=
+ The arrival place may be affected by detours. Pitcairn-Trafford Road at Ha=
+ymaker Village Entrance Drive, Haymaker Village Parking Lot at End Of Fire =
+Lane will be available instead. {/s}
+
+Detour information sourced from:
+http://www.portauthority.org/paac/apps/DetoursDNN/pgDetours.asp?mode=3Dall
+
+View logs: http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20140524/index=
+.html
+
+More information at: http://huron.lti.cs.cmu.edu/index.html
+
+             147 Dir(s)   7,055,798,272 bytes free on Z:\FabrizioLGP-Curren=
+t\LetsGoInc\logs\LetsGoPublic
+
+
+The numbers shown are 80% range, mean, standard deviation, and z-score,
+respectively, for this day of the week.  Numbers are computed since April
+2007, upon moving to the Olympus2 system.  Potential outlier values should
+be noted when the z-score has a magnitude greater than 1.3 (80% interval).

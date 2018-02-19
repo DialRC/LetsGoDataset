@@ -1,0 +1,50 @@
+LetsGoPublic statistics for 20130713
+----------------------------------------------
+
+Number of sessions: 111   [58.7-132.4] (95.6 28.35 0.54)
+Number of no-turn sessions: 15
+Number of sessions >=3D 4 turns: 86   [45.7-105.8] (75.7 23.11 0.44)
+Average number of turns per sessions:  12.0   [10.1-15.6] (12.8 2.12 -0.39)
+
+Number of estimated successes: 77 (89.5 %)   [63.2-85.4] (74.3 8.52 1.79)
+
+Number of sessions with backend fail code 15: 0
+
+20130713 had 088 posted detours
+
+Number of Tiramisu lookups...................: 54
+Number of Tiramisu time information..........: 0
+Number of Tiramisu fullness information......: 2
+Number of Tiramisu time/fullness information.: 0
+Number of detour information provided........: 2
+
+Provided detour information breakdown:
+
+001 :
+S:  {s} The schedule says 31 leaves SOUTH FAYETTE PARK AND RIDE at 5:02 p.m=
+. {/s} {s} and arrives at LIBERTY AVENUE AT GATEWAY NUMBER FOUR at 5:48 p.m=
+.. {/s} {s} The departure place may be affected by detours. Relocated South=
+ Fayette Park & Ride Shelter will be available instead. {/s}
+
+001 :
+S:  {s} The schedule says 74 leaves MURRAY AVENUE AT FORBES at 11:17 p.m. {=
+/s} {s} and arrives at REYNOLDS STREET AT HOMEWOOD at 11:23 p.m.. {/s} {s} =
+The arrival place may be affected by detours. Dallas at Reynolds, Dallas at=
+ Penn, Penn at Homewood will be available instead. {/s}
+
+Detour information sourced from:
+http://www.portauthority.org/paac/apps/DetoursDNN/pgDetours.asp?mode=3Dall
+
+View logs: http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20130713/index=
+.html
+
+More information at: http://huron.lti.cs.cmu.edu/index.html
+
+             197 Dir(s)  29,773,393,920 bytes free on Z:\LGP-Current\LetsGo=
+INC\logs\LetsGoPublic
+
+
+The numbers shown are 80% range, mean, standard deviation, and z-score,
+respectively, for this day of the week.  Numbers are computed since April
+2007, upon moving to the Olympus2 system.  Potential outlier values should
+be noted when the z-score has a magnitude greater than 1.3 (80% interval).

@@ -1,0 +1,19 @@
+LetsGoPublic statistics for 20071113
+----------------------------------------------
+
+Number of sessions: 36
+Number of no-turn sessions: 5
+Number of sessions >=3D 4 turns: 23
+Average number of turns per sessions:  12.1
+
+Number of estimated successes: 20 (87.0 %)
+
+View logs: http://accent.speech.cs.cmu.edu/data/LetsGoPublic2/20071113/inde=
+x.html
+
+More information at: http://accent.speech.cs.cmu.edu/index.html
+
+              16 Dir(s)   8,243,580,928 bytes free on D:\LetsGoPublic\logs\=
+LetsGoPublic
+
+

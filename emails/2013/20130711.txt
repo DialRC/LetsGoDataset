@@ -1,0 +1,45 @@
+LetsGoPublic statistics for 20130711
+----------------------------------------------
+
+Number of sessions: 46   [19.6-58.3] (38.9 14.88 0.47)
+Number of no-turn sessions: 2
+Number of sessions >=3D 4 turns: 41   [15.3-47.5] (31.4 12.41 0.77)
+Average number of turns per sessions:  11.9   [9.1-16.6] (12.8 2.89 -0.33)
+
+Number of estimated successes: 33 (80.5 %)   [61.7-87.9] (74.8 10.06 0.57)
+
+Number of sessions with backend fail code 15: 0
+
+20130711 had 090 posted detours
+
+Number of Tiramisu lookups...................: 19
+Number of Tiramisu time information..........: 0
+Number of Tiramisu fullness information......: 2
+Number of Tiramisu time/fullness information.: 0
+Number of detour information provided........: 1
+
+Provided detour information breakdown:
+
+001 :
+S:  {s} The schedule says there is a 75 leaving ELLSWORTH AVENUE AT EAST LI=
+BERTY STATION at 10:10 p.m. {/s} {s} It will arrive at SIDNEY STREET AT TWE=
+NTY EIGHTH STREET at 10:30 p.m.. {/s} {s} The departure place may be affect=
+ed by detours. Shady at Ellsworth, Alder at Highland, Highland at Elwood, C=
+ollege at Ellsworth will be available instead. {/s}
+
+Detour information sourced from:
+http://www.portauthority.org/paac/apps/DetoursDNN/pgDetours.asp?mode=3Dall
+
+View logs: http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20130711/index=
+.html
+
+More information at: http://huron.lti.cs.cmu.edu/index.html
+
+             195 Dir(s)  31,164,592,128 bytes free on Z:\LGP-Current\LetsGo=
+INC\logs\LetsGoPublic
+
+
+The numbers shown are 80% range, mean, standard deviation, and z-score,
+respectively, for this day of the week.  Numbers are computed since April
+2007, upon moving to the Olympus2 system.  Potential outlier values should
+be noted when the z-score has a magnitude greater than 1.3 (80% interval).

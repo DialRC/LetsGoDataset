@@ -1,0 +1,70 @@
+LetsGoPublic statistics for 20130727
+----------------------------------------------
+
+Number of sessions: 123=20=20=20
+Number of no-turn sessions: 17
+Number of sessions >=3D 4 turns: 92=20=20=20
+Average number of turns per sessions:  12.5=20=20=20
+
+Number of estimated successes: 85 (92.4 %)=20=20=20
+
+Number of sessions with backend fail code 15: 0
+
+20130727 had 090 posted detours
+
+Number of Tiramisu lookups...................: 59
+Number of Tiramisu time information..........: 0
+Number of Tiramisu fullness information......: 4
+Number of Tiramisu time/fullness information.: 0
+Number of detour information provided........: 4
+
+Provided detour information breakdown:
+
+001 :
+S:  {s} There is a 39 leaving SOUTH BUSWAY AT STATION SQUARE at 8:26 p.m.. =
+{/s} {s} It will arrive at WOOD STREET AT FORBES AVENUE at 8:32 p.m.. {/s} =
+{s} The departure place may be affected by detours. East Carson at Smithfie=
+ld Street Bridge will be available instead. {/s} {s} The arrival place may =
+be affected by detours. Wood Street Bus Lane at Blvd of the Allies, Fifth a=
+t Wood will be available instead. {/s}
+
+001 :
+S:  {s} The schedule says there is a SL leaving SOUTH HILLS JUNCTION STATIO=
+N at 11:37 p.m. {/s} {s} It will arrive at GATEWAY STATION at 11:48 p.m.. {=
+/s} {s} The arrival place may be affected by detours. First Ave at Try, Gra=
+nt at Second, Grant opp Oliver, Sixth Ave at Wood, Stanwix St at Penn Ave P=
+lace Canopy, West General Robinson at North Side Station Main Entrance, All=
+egheny at Allegheny Station Entrance, Allegheny Station Bus Recovery Area w=
+ill be available instead. {/s}
+
+001 :
+S:  {s} There is a RED leaving SOUTH HILLS JUNCTION STATION at 11:57 p.m.. =
+{/s} {s} It will arrive at GATEWAY STATION at 12:8 a.m.. {/s} {s} The arriv=
+al place may be affected by detours. First Ave at Try, Grant at Second, Gra=
+nt opp Oliver, Sixth Ave at Wood, Stanwix St at Penn Ave Place Canopy, West=
+ General Robinson at North Side Station Main Entrance, Allegheny at Alleghe=
+ny Station Entrance, Allegheny Station Bus Recovery Area will be available =
+instead. {/s}
+
+001 :
+S:  {s} There is a RED leaving SOUTH HILLS VILLAGE STATION at 12:0 a.m.. {/=
+s} {s} It will arrive at GATEWAY STATION at 12:38 a.m.. {/s} {s} The arriva=
+l place may be affected by detours. First Ave at Try, Grant at Second, Gran=
+t opp Oliver, Sixth Ave at Wood, Stanwix St at Penn Ave Place Canopy, West =
+General Robinson at North Side Station Main Entrance, Allegheny at Alleghen=
+y Station Entrance, Allegheny Station Bus Recovery Area will be available i=
+nstead. {/s}
+
+Detour information sourced from:
+http://www.portauthority.org/paac/apps/DetoursDNN/pgDetours.asp?mode=3Dall
+
+View logs: http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20130727/index=
+.html
+
+More information at: http://huron.lti.cs.cmu.edu/index.html
+
+             212 Dir(s)  20,772,814,848 bytes free on Z:\LGP-Current\LetsGo=
+INC\logs\LetsGoPublic
+
+
+

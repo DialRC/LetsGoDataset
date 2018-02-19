@@ -1,0 +1,54 @@
+LetsGoPublic statistics for 20130625
+----------------------------------------------
+
+Number of sessions: 52   [22.3-54.8] (38.5 12.49 1.08)
+Number of no-turn sessions: 8
+Number of sessions >=3D 4 turns: 43   [17.8-45.5] (31.6 10.67 1.07)
+Average number of turns per sessions:  11.9   [9.7-16.7] (13.2 2.71 -0.47)
+
+Number of estimated successes: 35 (81.4 %)   [61.7-87.9] (74.8 10.05 0.66)
+
+Number of sessions with backend fail code 15: 0
+
+20130625 had 092 posted detours
+
+Number of Tiramisu lookups...................: 19
+Number of Tiramisu time information..........: 0
+Number of Tiramisu fullness information......: 2
+Number of Tiramisu time/fullness information.: 0
+Number of detour information provided........: 2
+
+Provided detour information breakdown:
+
+001 :
+S:  {s} The schedule says there is a 69 leaving BRINTON AVENUE AT FIFTH at =
+5:11 p.m. {/s} {s} It will arrive at STANWIX STREET OPPOSITE FOURTH AVENUE =
+at 6:20 p.m.. {/s} {s} The departure place may be affected by detours. West=
+moreland, 4th at Brinton, 5th at Cavitt, 5th at Duquesne Way, Forest at 6th=
+ St, Forest at 7th, 7th at #640, 7th at #756, 7th at Prospect, Forbes Road =
+at Haymaker Road will be available instead. {/s}
+
+001 :
+S:  {s} There is a 69 leaving BRINTON AVENUE AT FIFTH at 3:43 p.m.. {/s} {s=
+} It will arrive at STANWIX STREET OPPOSITE FOURTH AVENUE at 5:00 p.m.. {/s=
+} {s} The departure place may be affected by detours. Westmoreland, 4th at =
+Brinton, 5th at Cavitt, 5th at Duquesne Way, Forest at 6th St, Forest at 7t=
+h, 7th at #640, 7th at #756, 7th at Prospect, Forbes Road at Haymaker Road =
+will be available instead. {/s}
+
+Detour information sourced from:
+http://www.portauthority.org/paac/apps/DetoursDNN/pgDetours.asp?mode=3Dall
+
+View logs: http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20130625/index=
+.html
+
+More information at: http://huron.lti.cs.cmu.edu/index.html
+
+             234 Dir(s)   7,798,804,480 bytes free on Z:\LGP-Current\LetsGo=
+INC\logs\LetsGoPublic
+
+
+The numbers shown are 80% range, mean, standard deviation, and z-score,
+respectively, for this day of the week.  Numbers are computed since April
+2007, upon moving to the Olympus2 system.  Potential outlier values should
+be noted when the z-score has a magnitude greater than 1.3 (80% interval).

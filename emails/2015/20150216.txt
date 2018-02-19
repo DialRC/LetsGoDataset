@@ -1,0 +1,43 @@
+LetsGoPublic statistics for 20150216
+----------------------------------------------
+
+Number of sessions: 7   [14.8-65.8] (40.3 19.61 -1.70)
+Number of no-turn sessions: 2
+Number of sessions >=3D 4 turns: 4   [12.0-53.1] (32.6 15.83 -1.80)
+Average number of turns per sessions:  9.0   [9.3-16.9] (13.1 2.91 -1.40)
+
+Number of estimated successes: 4 (100.0 %)   [62.6-94.5] (78.6 12.28 1.74)
+
+Number of sessions with backend fail code 15: 0
+
+NOTE: SYSTEM IS NOW PUBLIC 24 HOURS A DAY.
+End of previously public hours: 800=20
+Beginning of previously public hours: 1630
+Number of sessions outside of previously public hours: 4
+
+20150216 had 085 posted detours
+
+Number of Tiramisu lookups...................: 2
+Number of Tiramisu time information..........: 0
+Number of Tiramisu fullness information......: 0
+Number of Tiramisu time/fullness information.: 0
+Number of detour information provided........: 0
+
+Provided detour information breakdown:
+
+Detour information sourced from:
+http://www.portauthority.org/paac/apps/DetoursDNN/pgDetours.asp?mode=3Dall
+
+View logs: http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20150216/index=
+.html
+
+More information at: http://michigan.lti.cs.cmu.edu/index.html
+
+             115 Dir(s)  134,940,794,880 bytes free on M:\LGP-Current\LetsG=
+oINC\logs\LetsGoPublic
+
+
+The numbers shown are 80% range, mean, standard deviation, and z-score,
+respectively, for this day of the week.  Numbers are computed since April
+2007, upon moving to the Olympus2 system.  Potential outlier values should
+be noted when the z-score has a magnitude greater than 1.3 (80% interval).

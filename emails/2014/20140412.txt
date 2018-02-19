@@ -1,0 +1,44 @@
+LetsGoPublic statistics for 20140412
+----------------------------------------------
+
+Number of sessions: 117   [60.9-132.5] (96.7 27.53 0.74)
+Number of no-turn sessions: 18
+Number of sessions >=3D 4 turns: 91   [47.5-106.0] (76.8 22.50 0.63)
+Average number of turns per sessions:  11.8   [10.2-15.6] (12.9 2.07 -0.51)
+
+Number of estimated successes: 88 (96.7 %)   [63.3-88.5] (75.9 9.69 2.15)
+
+Number of sessions with backend fail code 15: 0
+
+20140412 had 059 posted detours
+
+Number of Tiramisu lookups...................: 49
+Number of Tiramisu time information..........: 0
+Number of Tiramisu fullness information......: 1
+Number of Tiramisu time/fullness information.: 0
+Number of detour information provided........: 1
+
+Provided detour information breakdown:
+
+001 :
+S:  {s} The schedule says there is a 24 leaving MALL AT ROBINSON AT ENTRANC=
+E K at 8:13 p.m. {/s} {s} It will arrive at STANWIX STREET AT FOURTH AVENUE=
+ PPG PLACE at 9:00 p.m.. {/s} {s} The arrival place may be affected by deto=
+urs. Liberty at Market will be available instead. {/s}
+
+Detour information sourced from:
+http://www.portauthority.org/paac/apps/DetoursDNN/pgDetours.asp?mode=3Dall
+
+View logs: http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20140412/index=
+.html
+
+More information at: http://huron.lti.cs.cmu.edu/index.html
+
+             105 Dir(s)  31,575,179,264 bytes free on Z:\FabrizioLGP-Curren=
+t\LetsGoInc\logs\LetsGoPublic
+
+
+The numbers shown are 80% range, mean, standard deviation, and z-score,
+respectively, for this day of the week.  Numbers are computed since April
+2007, upon moving to the Olympus2 system.  Potential outlier values should
+be noted when the z-score has a magnitude greater than 1.3 (80% interval).

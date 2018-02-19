@@ -1,0 +1,38 @@
+LetsGoPublic statistics for 20140319
+----------------------------------------------
+
+Number of sessions: 39   [20.6-55.9] (38.2 13.59 0.06)
+Number of no-turn sessions: 5
+Number of sessions >=3D 4 turns: 32   [16.8-45.8] (31.3 11.18 0.06)
+Average number of turns per sessions:  14.2   [9.7-17.0] (13.4 2.78 0.31)
+
+Number of estimated successes: 30 (93.8 %)   [61.4-90.4] (75.9 11.15 1.60)
+
+Number of sessions with backend fail code 15: 0
+
+20140319 had 079 posted detours
+
+Number of Tiramisu lookups...................: 28
+Number of Tiramisu time information..........: 0
+Number of Tiramisu fullness information......: 0
+Number of Tiramisu time/fullness information.: 0
+Number of detour information provided........: 0
+
+Provided detour information breakdown:
+
+Detour information sourced from:
+http://www.portauthority.org/paac/apps/DetoursDNN/pgDetours.asp?mode=3Dall
+
+View logs: http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20140319/index=
+.html
+
+More information at: http://huron.lti.cs.cmu.edu/index.html
+
+             139 Dir(s)  12,003,840,000 bytes free on Z:\FabrizioLGP-Curren=
+t\LetsGoInc\logs\LetsGoPublic
+
+
+The numbers shown are 80% range, mean, standard deviation, and z-score,
+respectively, for this day of the week.  Numbers are computed since April
+2007, upon moving to the Olympus2 system.  Potential outlier values should
+be noted when the z-score has a magnitude greater than 1.3 (80% interval).

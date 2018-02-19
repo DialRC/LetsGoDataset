@@ -1,0 +1,28 @@
+LetsGoPublic statistics for 20111029
+----------------------------------------------
+
+Number of sessions: 122   [57.1-131.1] (94.1 28.46 0.98)
+Number of no-turn sessions: 8
+Number of sessions >=3D 4 turns: 101   [44.7-105.3] (75.0 23.29 1.12)
+Average number of turns per sessions:  12.2   [9.9-15.9] (12.9 2.28 -0.30)
+
+Number of estimated successes: 89 (88.1 %)   [62.6-84.6] (73.6 8.46 1.72)
+
+Number of sessions with backend fail code 15: 3
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20111029/014/index.html
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20111029/020/index.html
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20111029/085/index.html
+
+View logs: http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20111029/index=
+.html
+
+More information at: http://huron.lti.cs.cmu.edu/index.html
+
+             197 Dir(s)  118,340,198,400 bytes free on Z:\LGP-Current\LetsG=
+oPublic\logs\LetsGoPublic
+
+
+The numbers shown are 80% range, mean, standard deviation, and z-score,
+respectively, for this day of the week.  Numbers are computed since April
+2007, upon moving to the Olympus2 system.  Potential outlier values should
+be noted when the z-score has a magnitude greater than 1.3 (80% interval).

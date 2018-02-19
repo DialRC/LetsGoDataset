@@ -1,0 +1,16 @@
+LetsGoPublic statistics for 20071111
+----------------------------------------------
+
+Number of sessions: 21
+Number of no-turn sessions: 3
+Number of sessions >=3D 4 turns: 15
+Average number of turns per sessions:  9.5
+
+Number of estimated successes: 8 (53.3 %)
+
+View logs: http:///20071111/index.html
+
+More information at: http://
+
+
+

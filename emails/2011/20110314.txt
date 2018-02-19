@@ -1,0 +1,60 @@
+LetsGoPublic statistics for 20110314
+----------------------------------------------
+
+Number of sessions: 38  [18.8-60.6] (39.7 16.10 -1.91)
+Number of no-turn sessions: 1
+Number of sessions >= 4 turns: 36   [15.6-50.9] (33.2 13.58 -1.79)
+Average number of turns per sessions:  12.2   [9.8-16.8] (13.3 2.68 -0.49)
+
+Number of estimated successes: 22 (61.1 %)  [60.8-88.3] (74.6 10.60 -1.79)
+
+Number of sessions with backend fail code 15: 0
+
+View logs:
+http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20110314/index.html
+
+More information at: http://clark.speech.cs.cmu.edu/index.html
+
+             85 Dir(s)  325,208,125,440 bytes free on W:\logs\LetsGoPublic
+
+
+
+
+NB: This is an automatically generated email. Contact gabeos@cs.cmu.edu for
+comments/requests.
+
+--00151747c178c84812049e864a62
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+LetsGoPublic statistics for 20110314<br><div class=3D"gmail_quote">
+----------------------------------------------<br>
+<br>
+Number of sessions: 38=A0 [18.8-60.6] (39.7 16.10 -1.91)<br>
+Number of no-turn sessions: 1<br>
+Number of sessions &gt;=3D 4 turns: 36 =A0 [15.6-50.9] (33.2 13.58 -1.79)<b=
+r>
+Average number of turns per sessions: =A012.2 =A0 [9.8-16.8] (13.3 2.68 -0.=
+49)<br>
+<br>
+Number of estimated successes: 22 (61.1 %)=A0 [60.8-88.3] (74.6 10.60 -1.79=
+)<br>
+<br>
+Number of sessions with backend fail code 15: 0<br>
+<br>
+View logs: <a href=3D"http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/201=
+10314/index.html" target=3D"_blank">http://clark.speech.cs.cmu.edu/data/Let=
+sGoPublic2/20110314/index.html</a><br>
+<br>
+More information at: <a href=3D"http://clark.speech.cs.cmu.edu/index.html" =
+target=3D"_blank">http://clark.speech.cs.cmu.edu/index.html</a><br>
+<br>
+ =A0 =A0 =A0 =A0 =A0 =A0 =A085 Dir(s) =A0325,208,125,440 bytes free on W:\l=
+ogs\LetsGoPublic<br>
+<br>
+<br>
+<br>
+<br>
+NB: This is an automatically generated email. Contact <a href=3D"mailto:gab=
+eos@cs.cmu.edu">gabeos@cs.cmu.edu</a> for comments/requests.<br>
+<br>

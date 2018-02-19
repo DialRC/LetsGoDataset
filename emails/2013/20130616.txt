@@ -1,0 +1,43 @@
+LetsGoPublic statistics for 20130616
+----------------------------------------------
+
+Number of sessions: 110=20=20=20
+Number of no-turn sessions: 10
+Number of sessions >=3D 4 turns: 95=20=20=20
+Average number of turns per sessions:  13.0=20=20=20
+
+Number of estimated successes: 85 (89.5 %)=20=20=20
+
+Number of sessions with backend fail code 15: 0
+
+20130616 had 090 posted detours
+
+Number of Tiramisu lookups...................: 70
+Number of Tiramisu time information..........: 0
+Number of Tiramisu fullness information......: 1
+Number of Tiramisu time/fullness information.: 0
+Number of detour information provided........: 1
+
+Provided detour information breakdown:
+
+001 :
+S:  {s} There is a 69 leaving BRINTON AVENUE AT FIFTH at 8:30 p.m.. {/s} {s=
+} It will arrive at WALLACE AVENUE AT SWISSVALE at 8:59 p.m.. {/s} {s} The =
+departure place may be affected by detours. Westmoreland, 4th at Brinton, 5=
+th at Cavitt, 5th at Duquesne Way, Forest at 6th St, Forest at 7th, 7th at =
+#640, 7th at #756, 7th at Prospect, Forbes Road at Haymaker Road will be av=
+ailable instead. {/s}
+
+Detour information sourced from:
+http://www.portauthority.org/paac/apps/DetoursDNN/pgDetours.asp?mode=3Dall
+
+View logs: http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20130616/index=
+.html
+
+More information at: http://huron.lti.cs.cmu.edu/index.html
+
+             225 Dir(s)  13,611,577,344 bytes free on Z:\LGP-Current\LetsGo=
+INC\logs\LetsGoPublic
+
+
+

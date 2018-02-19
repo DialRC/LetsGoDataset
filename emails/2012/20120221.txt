@@ -1,0 +1,21 @@
+LetsGoPublic statistics for 20120221
+----------------------------------------------
+
+Number of sessions: 29
+Number of no-turn sessions: 2
+Number of sessions>= 4 turns: 23
+Average number of turns per sessions:  9.3
+
+Number of estimated successes: 17 (73.9 %)
+
+Number of sessions with backend fail code 15: 0
+
+View logs: http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20120221/index.html
+
+More information at: http://huron.lti.cs.cmu.edu/index.html
+
+               12 Dir(s)   4,933,529,600 bytes free on Z:\LGP-Current\afandria-LE\logs\LetsGoPublic
+
+
+
+

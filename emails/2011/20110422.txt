@@ -1,0 +1,57 @@
+LetsGoPublic statistics for 20110422
+----------------------------------------------
+
+Number of sessions: 29
+Number of no-turn sessions: 4
+Number of sessions >= 4 turns: 24
+Average number of turns per sessions:  11.8
+
+Number of estimated successes: 20 (83.3 %)
+
+Number of sessions with backend fail code 15: 0
+
+View logs:
+http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20110422/index.html
+
+More information at: http://clark.speech.cs.cmu.edu/index.html
+
+              9 Dir(s)  289,495,756,800 bytes free on
+Z:\LGP-Current\LetsGoPublic\logs\LetsGoPublic
+
+
+
+
+NB: This is an automatically generated email. Contact gabeos@cs.cmu.edu for
+comments/requests.
+
+--001636416aa39c87bf04a1bfa6d0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+LetsGoPublic statistics for 20110422<br><div class=3D"gmail_quote">
+----------------------------------------------<br>
+<br>
+Number of sessions: 29<br>
+Number of no-turn sessions: 4<br>
+Number of sessions &gt;=3D 4 turns: 24<br>
+Average number of turns per sessions: =A011.8<br>
+<br>
+Number of estimated successes: 20 (83.3 %)<br>
+<br>
+Number of sessions with backend fail code 15: 0<br>
+<br>
+View logs: <a href=3D"http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/201=
+10422/index.html" target=3D"_blank">http://clark.speech.cs.cmu.edu/data/Let=
+sGoPublic2/20110422/index.html</a><br>
+<br>
+More information at: <a href=3D"http://clark.speech.cs.cmu.edu/index.html" =
+target=3D"_blank">http://clark.speech.cs.cmu.edu/index.html</a><br>
+<br>
+ =A0 =A0 =A0 =A0 =A0 =A0 =A0 9 Dir(s) =A0289,495,756,800 bytes free on Z:\L=
+GP-Current\LetsGoPublic\logs\LetsGoPublic<br>
+<br>
+<br>
+<br>
+<br>
+NB: This is an automatically generated email. Contact <a href=3D"mailto:gab=
+eos@cs.cmu.edu">gabeos@cs.cmu.edu</a> for comments/requests.<br>

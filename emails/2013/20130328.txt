@@ -1,0 +1,73 @@
+LetsGoPublic statistics for 20130328
+----------------------------------------------
+
+Number of sessions: 54   [20.0-57.4] (38.7 14.38 1.07)
+Number of no-turn sessions: 2
+Number of sessions >=3D 4 turns: 52   [15.4-46.9] (31.2 12.10 1.72)
+Average number of turns per sessions:  14.7   [9.0-16.6] (12.8 2.93 0.64)
+
+Number of estimated successes: 36 (69.2 %)   [61.4-87.3] (74.3 9.95 -0.52)
+
+Number of sessions with backend fail code 15: 0
+
+20130328 had 062 posted detours
+
+Number of Tiramisu lookups...................: 36
+Number of Tiramisu time information..........: 0
+Number of Tiramisu fullness information......: 5
+Number of Tiramisu time/fullness information.: 0
+Number of detour information provided........: 5
+
+Provided detour information breakdown:
+
+001 :
+S:  {s} The schedule says there is a 77 leaving FRANKSTOWN AVENUE AT MURTLA=
+ND STREET at 9:04 a.m. {/s} {s} It will arrive at FRANKSTOWN ROAD AT PETERM=
+ANS LANE at 9:29 a.m.. {/s} {s} The departure place may be affected by deto=
+urs. Bennett at Murtland, Bennett at Lang, Homewood at Frankstown will be a=
+vailable instead. {/s}
+
+001 :
+S:  {s} There is a 77 leaving FRANKSTOWN AVENUE AT MURTLAND STREET at 8:55 =
+a.m.. {/s} {s} It will arrive at FRANKSTOWN AVENUE AT PAULSON AVENUE at 9:0=
+3 a.m.. {/s} {s} The departure place may be affected by detours. Bennett at=
+ Lang, Bennett at Murtland will be available instead. {/s}
+
+001 :
+S:  {s} The schedule says P7 leaves MCKEESPORT TRANSPORTATION CENTER AT BAY=
+ NUMBER 3 at 5:21 p.m. {/s} {s} and arrives at BRADDOCK AVENUE AT FIFTH HAW=
+KINS VILLAGE at 5:39 p.m.. {/s} {s} The departure place may be affected by =
+detours. Braddock opp Super America, Hawkins at Rankin*, Rankin at Building=
+ #5*, Rankin at Building #2*, Harriett at Fifth*, Miller at Gas Way*, Mille=
+r at Benwood*, Monongahela at #2129*, Monongahela at Duquesne*, Monongahela=
+ at Washington* will be available instead. {/s}
+
+001 :
+S:  {s} There is a 86 leaving FRANKSTOWN AVENUE AT MURTLAND STREET at 8:37 =
+a.m.. {/s} {s} It will arrive at FRANKSTOWN AVENUE AT WASHINGTON BOULEVARD =
+at 8:42 a.m.. {/s} {s} The departure place may be affected by detours. Benn=
+ett at Lang, Bennett at Murtland will be available instead. {/s}
+
+001 :
+S:  {s} There is a 86 leaving FRANKSTOWN AVENUE AT MURTLAND STREET at 8:49 =
+a.m.. {/s} {s} It will arrive at FRANKSTOWN AVENUE AT BRUSHTON AVENUE at 8:=
+53 a.m.. {/s} {s} The departure place may be affected by detours. Bennett a=
+t Murtland, Bennett at Lang, Homewood at Frankstown will be available inste=
+ad. {/s}
+
+Detour information sourced from:
+http://www.portauthority.org/paac/apps/DetoursDNN/pgDetours.asp?mode=3Dall
+
+View logs: http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20130328/index=
+.html
+
+More information at: http://huron.lti.cs.cmu.edu/index.html
+
+             145 Dir(s)  72,115,875,840 bytes free on Z:\LGP-Current\LetsGo=
+INC\logs\LetsGoPublic
+
+
+The numbers shown are 80% range, mean, standard deviation, and z-score,
+respectively, for this day of the week.  Numbers are computed since April
+2007, upon moving to the Olympus2 system.  Potential outlier values should
+be noted when the z-score has a magnitude greater than 1.3 (80% interval).

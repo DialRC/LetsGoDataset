@@ -1,0 +1,49 @@
+LetsGoPublic statistics for 20141108
+----------------------------------------------
+
+Number of sessions: 49   [60.4-132.2] (96.3 27.63 -1.71)
+Number of no-turn sessions: 14
+Number of sessions >=3D 4 turns: 31   [46.7-105.9] (76.3 22.77 -1.99)
+Average number of turns per sessions:  9.5   [10.1-15.5] (12.8 2.08 -1.59)
+
+Number of estimated successes: 26 (83.9 %)   [63.5-89.7] (76.6 10.06 0.72)
+
+Number of sessions with backend fail code 15: 0
+
+NOTE: SYSTEM IS NOW PUBLIC 24 HOURS A DAY.
+End of previously public hours: 800=20
+Beginning of previously public hours: 1630
+Number of sessions outside of previously public hours: 24
+
+20141108 had 123 posted detours
+
+Number of Tiramisu lookups...................: 12
+Number of Tiramisu time information..........: 0
+Number of Tiramisu fullness information......: 1
+Number of Tiramisu time/fullness information.: 0
+Number of detour information provided........: 1
+
+Provided detour information breakdown:
+
+001 :
+S:  {s} The schedule says 77 leaves LIBERTY AVENUE AT MARKET STREET at 6:00=
+ p.m. {/s} {s} and arrives at EAST LIBERTY BOULEVARD AT FRANKSTOWN AVENUE a=
+t 6:28 p.m.. {/s} {s} The departure place may be affected by detours. Fifth=
+ at Wood, Wood at Sixth Ave will be available instead. {/s}
+
+Detour information sourced from:
+http://www.portauthority.org/paac/apps/DetoursDNN/pgDetours.asp?mode=3Dall
+
+View logs: http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20141108/index=
+.html
+
+More information at: http://huron.lti.cs.cmu.edu/index.html
+
+             195 Dir(s)  44,598,870,016 bytes free on Z:\FabrizioLGP-Curren=
+t\LetsGoInc\logs\LetsGoPublic
+
+
+The numbers shown are 80% range, mean, standard deviation, and z-score,
+respectively, for this day of the week.  Numbers are computed since April
+2007, upon moving to the Olympus2 system.  Potential outlier values should
+be noted when the z-score has a magnitude greater than 1.3 (80% interval).

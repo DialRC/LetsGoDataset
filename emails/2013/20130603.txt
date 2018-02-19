@@ -1,0 +1,45 @@
+LetsGoPublic statistics for 20130603
+----------------------------------------------
+
+Number of sessions: 58   [15.1-64.5] (39.8 18.98 0.96)
+Number of no-turn sessions: 8
+Number of sessions >=3D 4 turns: 45   [12.6-52.7] (32.7 15.43 0.80)
+Average number of turns per sessions:  13.8   [9.5-16.8] (13.1 2.83 0.24)
+
+Number of estimated successes: 34 (75.6 %)   [61.1-89.6] (75.3 10.96 0.03)
+
+Number of sessions with backend fail code 15: 0
+
+20130603 had 075 posted detours
+
+Number of Tiramisu lookups...................: 23
+Number of Tiramisu time information..........: 0
+Number of Tiramisu fullness information......: 1
+Number of Tiramisu time/fullness information.: 0
+Number of detour information provided........: 1
+
+Provided detour information breakdown:
+
+001 :
+S:  {s} The schedule says there is a 41 leaving WEST LIBERTY AVENUE AT ILLI=
+NOIS POTOMAC at 7:01 a.m. {/s} {s} It will arrive at WOOD STREET AT FORBES =
+AVENUE at 7:23 a.m.. {/s} {s} The arrival place may be affected by detours.=
+ Wood Street Bus Lane at Blvd of the Allies, Fifth at Wood will be availabl=
+e instead. {/s}
+
+Detour information sourced from:
+http://www.portauthority.org/paac/apps/DetoursDNN/pgDetours.asp?mode=3Dall
+
+View logs: http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20130603/index=
+.html
+
+More information at: http://huron.lti.cs.cmu.edu/index.html
+
+             212 Dir(s)  21,547,323,392 bytes free on Z:\LGP-Current\LetsGo=
+INC\logs\LetsGoPublic
+
+
+The numbers shown are 80% range, mean, standard deviation, and z-score,
+respectively, for this day of the week.  Numbers are computed since April
+2007, upon moving to the Olympus2 system.  Potential outlier values should
+be noted when the z-score has a magnitude greater than 1.3 (80% interval).

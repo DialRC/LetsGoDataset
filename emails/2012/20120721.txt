@@ -1,0 +1,25 @@
+LetsGoPublic statistics for 20120721
+----------------------------------------------
+
+Number of sessions: 79   [57.4-132.6] (95.0 28.94 -0.55)
+Number of no-turn sessions: 12
+Number of sessions >=3D 4 turns: 60   [44.8-106.2] (75.5 23.64 -0.66)
+Average number of turns per sessions:  11.0   [10.0-15.7] (12.9 2.20 -0.85)
+
+Number of estimated successes: 47 (78.3 %)   [62.8-84.9] (73.8 8.48 0.53)
+
+Number of sessions with backend fail code 15: 0
+
+View logs: http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20120721/index=
+.html
+
+More information at: http://huron.lti.cs.cmu.edu/index.html
+
+              57 Dir(s)  10,401,878,016 bytes free on Z:\LGP-Current\LetsGo=
+Inc\logs\LetsGoPublic
+
+
+The numbers shown are 80% range, mean, standard deviation, and z-score,
+respectively, for this day of the week.  Numbers are computed since April
+2007, upon moving to the Olympus2 system.  Potential outlier values should
+be noted when the z-score has a magnitude greater than 1.3 (80% interval).

@@ -1,0 +1,57 @@
+LetsGoPublic statistics for 20141003
+----------------------------------------------
+
+Number of sessions: 90   [25.6-64.3] (44.9 14.90 3.02)
+Number of no-turn sessions: 16
+Number of sessions >=3D 4 turns: 55   [20.1-52.4] (36.3 12.42 1.51)
+Average number of turns per sessions:  9.9   [9.5-16.1] (12.8 2.54 -1.14)
+
+Number of estimated successes: 50 (90.9 %)   [62.6-90.4] (76.5 10.70 1.35)
+
+Number of sessions with backend fail code 15: 0
+
+NOTE: SYSTEM IS NOW PUBLIC 24 HOURS A DAY.
+End of previously public hours: 800=20
+Beginning of previously public hours: 1630
+Number of sessions outside of previously public hours: 39
+
+20141003 had 161 posted detours
+
+Number of Tiramisu lookups...................: 26
+Number of Tiramisu time information..........: 1
+Number of Tiramisu fullness information......: 2
+Number of Tiramisu time/fullness information.: 0
+Number of detour information provided........: 2
+
+Provided detour information breakdown:
+
+001 :
+S:  {s} The schedule says there is a 51 leaving SMITHFIELD STREET AT FORT P=
+ITT BOULEVARD at 9:12 p.m. {/s} {s} It will arrive at SOUTH EIGHTEENTH STRE=
+ET AT SARAH STREET at 9:22 p.m.. {/s} {s} The departure place may be affect=
+ed by detours. Smithfield Street Bus Lane at Blvd of the Allies, East Carso=
+n at Smithfield Street Bridge will be available instead. {/s}
+
+001 :
+S:  {s} The schedule says 28X leaves FIFTH AVENUE OPPOSITE ATWOOD STREET at=
+ 9:31 p.m. {/s} {s} and arrives at SEVENTH AVENUE AT SMITHFIELD STREET at 9=
+:39 p.m.. {/s} {s} The arrival place may be affected by detours. Forbes at =
+Smithfield, Smithfield at Sixth Ave, Smithfield at Seventh Ave will be avai=
+lable instead. {/s}
+
+Detour information sourced from:
+http://www.portauthority.org/paac/apps/DetoursDNN/pgDetours.asp?mode=3Dall
+
+View logs: http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20141003/index=
+.html
+
+More information at: http://huron.lti.cs.cmu.edu/index.html
+
+             159 Dir(s)  60,708,442,112 bytes free on Z:\FabrizioLGP-Curren=
+t\LetsGoInc\logs\LetsGoPublic
+
+
+The numbers shown are 80% range, mean, standard deviation, and z-score,
+respectively, for this day of the week.  Numbers are computed since April
+2007, upon moving to the Olympus2 system.  Potential outlier values should
+be noted when the z-score has a magnitude greater than 1.3 (80% interval).

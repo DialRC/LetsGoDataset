@@ -1,0 +1,35 @@
+LetsGoPublic statistics for 20131229
+----------------------------------------------
+
+Number of sessions: 74=20=20=20
+Number of no-turn sessions: 8
+Number of sessions >=3D 4 turns: 57=20=20=20
+Average number of turns per sessions:  13.9=20=20=20
+
+Number of estimated successes: 51 (89.5 %)=20=20=20
+
+Number of sessions with backend fail code 15: 0
+
+20131229 had 110 posted detours
+
+Number of Tiramisu lookups...................: 35
+Number of Tiramisu time information..........: 0
+Number of Tiramisu fullness information......: 0
+Number of Tiramisu time/fullness information.: 0
+Number of detour information provided........: 0
+
+Provided detour information breakdown:
+
+Detour information sourced from:
+http://www.portauthority.org/paac/apps/DetoursDNN/pgDetours.asp?mode=3Dall
+
+View logs: http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20131229/index=
+.html
+
+More information at: http://huron.lti.cs.cmu.edu/index.html
+
+              88 Dir(s)  43,600,117,760 bytes free on Z:\FabrizioLGP-Curren=
+t\LetsGoInc\logs\LetsGoPublic
+
+
+

@@ -1,0 +1,63 @@
+LetsGoPublic statistics for 20131103
+----------------------------------------------
+
+Number of sessions: 89   [47.4-109.8] (78.6 24.01 0.43)
+Number of no-turn sessions: 12
+Number of sessions >=3D 4 turns: 64   [37.9-90.9] (64.4 20.41 -0.02)
+Average number of turns per sessions:  11.6   [10.4-16.4] (13.4 2.31 -0.76)
+
+Number of estimated successes: 59 (92.2 %)   [62.3-87.2] (74.7 9.56 1.83)
+
+Number of sessions with backend fail code 15: 0
+
+20131103 had 064 posted detours
+
+Number of Tiramisu lookups...................: 65
+Number of Tiramisu time information..........: 0
+Number of Tiramisu fullness information......: 4
+Number of Tiramisu time/fullness information.: 0
+Number of detour information provided........: 4
+
+Provided detour information breakdown:
+
+001 :
+S:  {s} The schedule says there is a 48 leaving SIXTH AVENUE AT SMITHFIELD =
+STREET at 9:45 p.m. {/s} {s} It will arrive at EAST CARSON STREET AT EIGHTE=
+ENTH STREET at 9:57 p.m.. {/s} {s} The departure place may be affected by d=
+etours. Fourth at Smithfield Street Bus Lane will be available instead. {/s}
+
+001 :
+S:  {s} The schedule says 48 leaves SIXTH AVENUE AT SMITHFIELD STREET at 6:=
+00 p.m. {/s} {s} and arrives at ARLINGTON AVENUE AT SOUTH EIGHTEENTH at 6:2=
+6 p.m.. {/s} {s} The departure place may be affected by detours. Fourth at =
+Smithfield Street Bus Lane will be available instead. {/s}
+
+001 :
+S:  {s} The schedule says 28X leaves SEVENTH AVENUE AT SMITHFIELD STREET at=
+ 8:40 p.m. {/s} {s} and arrives at WEST CARSON STREET OPPOSITE DUQUESNE INC=
+LINE at 8:44 p.m.. {/s} {s} The arrival place may be affected by detours. M=
+ansfield at Arch, Mansfield opp Chartiers will be available instead. {/s}
+
+001 :
+S:  {s} The schedule says there is a G2 leaving SEVENTH AVENUE AT SMITHFIEL=
+D STREET at 10:38 p.m. {/s} {s} It will arrive at WEST CARSON STREET OPPOSI=
+TE DUQUESNE INCLINE at 10:45 p.m.. {/s} {s} The arrival place may be affect=
+ed by detours. Mansfield at Arch, Mansfield opp Chartiers will be available=
+ instead. {/s}
+
+Detour information sourced from:
+http://www.portauthority.org/paac/apps/DetoursDNN/pgDetours.asp?mode=3Dall
+
+View logs: http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20131103/index=
+.html
+
+More information at: http://huron.lti.cs.cmu.edu/index.html
+
+              35 Dir(s)  20,346,867,712 bytes free on Z:\FabrizioLGP-Curren=
+t\LetsGoInc\logs\LetsGoPublic
+
+
+The numbers shown are 80% range, mean, standard deviation, and z-score,
+respectively, for this day of the week.  Numbers are computed since April
+2007, upon moving to the Olympus2 system.  Potential outlier values should
+be noted when the z-score has a magnitude greater than 1.3 (80% interval).

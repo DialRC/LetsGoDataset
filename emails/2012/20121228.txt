@@ -1,0 +1,22 @@
+LetsGoPublic statistics for 20121228
+----------------------------------------------
+
+Number of sessions: 26=20=20=20
+Number of no-turn sessions: 3
+Number of sessions >=3D 4 turns: 23=20=20=20
+Average number of turns per sessions:  14.3=20=20=20
+
+Number of estimated successes: 15 (65.2 %)=20=20=20
+
+Number of sessions with backend fail code 15: 0
+
+View logs: http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20121228/index=
+.html
+
+More information at: http://huron.lti.cs.cmu.edu/index.html
+
+              55 Dir(s)  117,439,217,664 bytes free on Z:\LGP-Current\LetsG=
+oINC\logs\LetsGoPublic
+
+
+

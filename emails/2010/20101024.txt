@@ -1,0 +1,26 @@
+LetsGoPublic statistics for 20101024
+----------------------------------------------
+
+Number of sessions: 42   [43.6-115.2] (79.4 27.53 -1.36)
+Number of no-turn sessions: 1
+Number of sessions >=3D 4 turns: 36   [35.5-95.4] (65.5 23.05 -1.28)
+Average number of turns per sessions:  12.5   [10.5-16.9] (13.7 2.47 -0.50)
+
+Number of estimated successes: 25 (69.4 %)  [62.3-84.5] (73.4 8.57 -0.47)
+
+Number of sessions with backend fail code 15: 1
+   http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101024/040/index.html
+
+View logs: http://clark.speech.cs.cmu.edu/data/LetsGoPublic2/20101024/index=
+.html
+
+More information at: http://clark.speech.cs.cmu.edu/index.html
+
+             104 Dir(s)  200,086,130,688 bytes free on W:\logs\LetsGoPublic
+
+
+The numbers shown are 80% range, mean, standard deviation, and z-score,
+respectively, for this day of the week.  Numbers are computed since April
+2007, upon moving to the Olympus2 system.  Potential outlier values should
+be noted when the z-score has a magnitude greater than 1.3 (80% interval).
+
