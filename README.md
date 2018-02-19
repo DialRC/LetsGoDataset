@@ -1,6 +1,6 @@
 # LET'S GO! Dataset
 
-This repository aims to provide public availability for the whole data obtained from the Let's Go dialog system and its derivitives. You can follow the instructions to download the dataset easily. Please create Github issues if you encounter problems and our team will assist you as soon as possible. To get started, go to introduction.
+This repository aims to provide public availability for the whole data obtained from the Let's Go dialog system and its derivatives. You can follow the instructions to download the dataset easily. Please create Github issues if you encounter problems and our team will assist you as soon as possible. To get started, go to introduction.
 
 * [Introduction](#intro)
 * [Description](#description)
