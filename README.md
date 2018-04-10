@@ -1,6 +1,13 @@
-# LET'S GO! Dataset
+# The Integral LET'S GO! Dataset
 
-This repository aims to provide public availability for the whole data obtained from the Let's Go dialog system and its derivatives. You can follow the instructions to download the dataset easily. Please create Github issues if you encounter problems and our team will assist you as soon as possible. To get started, go to introduction.
+This repository contains the integral Let's Go! dataset, obtained from use of the Let’s Go dialog system and its derivatives. The Let’s Go data and system have been used in over 22 theses and over 250 non-CMU publications. Let’s Go was funded by the National Science Foundation. Arguably the largest publicly available real user dataset at the time of its release, Let’s Go went live to real users on March 5, 2005. The Let’s Go system was connected to the public information phone number for the Port Authority of Allegheny County. During daytime, human operators manned this number, but after 7pm and until 6am the next day, and for longer periods on the weekends, all calls were routed to Let’s Go. The route schedule changed three to four times a year with some routes being eliminated over time. Let’s Go began with coverage of only the East End neighborhoods of Pittsburgh, but in later years it covered all of the Port Authority’s routes. The logfile of all changes made to the system can be found in [`./changelog/overall_lg_map.current.xls`](./changelog/overall_lg_map.current.xls).
+
+There are a total of 171,128 dialogs in this Let’s Go dataset. A total of 104,663 of these are at least three turns long. This is important since it is the minimum length needed in order for the system to get enough information for a backend lookup (and thus possibly have a successful dialog). But the user could have repeated information or changed a request and so not filled all of the slots in three turns. A total of 93,690 dialogs in this dataset had a backend lookup (it should be noted that we do not have backend lookup information for several months in 2006). This is the measure (at least three turns and a backend lookup) that the Let’s Go team used for the estimated success rate.  We note that although it means that the system found information and gave it to the user, this is only an estimation of success since the system could have looked up and given the wrong information (due to ASR errors, for example), but it was at the time one indication that allowed the ream to compare different versions of the system. For example, during the switch from the system-directed “where are you leaving from” to the more general “How can I help you?”, the estimated success rate was used at first to determine whether the system could deal with the general question.
+
+Please note the license for use of this data [License](#license). Please agree to this license before downloading the data.
+
+The instructions for downloading the dataset are straightforward. Please create a GitHub issue if you encounter a problem and our team will assist you as soon as possible. To get started, go to the introduction.
+
 
 * [Introduction](#intro)
 * [Description](#description)
@@ -11,28 +18,28 @@ This repository aims to provide public availability for the whole data obtained 
 * [Acknowledgment](#acknowledgment)
 
 ## Introduction
-Let’s Go! is a spoken dialog system that can be used by the general public. While there has been success in building spoken dialog systems that can interact well with people, these systems often work only for a limited group of people. The system we are developing for Let’s Go! is designed to work with a much wider population, including groups that typically have trouble interacting with dialog systems, such as non-native English speakers and the elderly. Let’s Go! works in the domain of bus information for Pittsburgh’s Port Authority Transit bus system, providing a telephone-based interface to access bus schedules and route information. 
+Let’s Go! is a spoken dialog system that was used by the general public. Let’s Go! gave bus information scheduling for the Allegheny County Port Authority Transit bus system via a telephone-based interface to access bus schedules and route information.
 
 The project page is at <http://www.speech.cs.cmu.edu/letsgo/>
 
-**NEWS: Let’s Go has been integrated to the DialPort project, talk to it [here](http://dialport.org)!**
+**NEWS: Let’s Go has been integrated with the DialPort project. You can talk to it by going [here](http://dialport.org) and asking for bus schedules.**
 
 ## Description
 
-There are eight important components from the corpus available for you to download and do research:
+There are eight components in this dataset that are available for download:
 
-* The complete Let's Go dataset
+* The integral Let's Go dataset
 * Subset - The Spoken Dialog Challenge
 * Subset - Dialog State Tracking Challenge (DSTC1)
 * Log of Events and System Changes
 * Crowdsourced Annotations from one year of Let's Go data 
-* Let's Go Daily Report 2006 - 2016
+* Let's Go Daily Reports 2006 - 2016
 
-### The complete Let's Go dataset
+### The integral Let's Go dataset
 
-The complete Let's Go dataset includes every session the system recorded from 2005 to 2016, to be more specific, 08/01/2005 to 03/15/2016. This includes the WAV file, the log file, and labels automatically generated by the ASR (Sphinx).
+The integral Let's Go dataset has 171,128 dialogs from 08/01/2005 to 03/15/2016. This includes the WAV file, the log file, and labels automatically generated by the ASR (Sphinx, PocketSphinx).
 
-The dataset is divided by months. Each month of data has the following directory structure (an example from the month July, 2014):
+The dataset is divided by months. Each month of data has the following directory structure (an example for July, 2014):
 ```
 201407  
 │
@@ -61,22 +68,26 @@ The dataset is divided by months. Each month of data has the following directory
 
 ```
 
-To learn about how to download the complete Let's Go dataset, please go to [Download](#download).
+
+The graph below shows the amount of dialogs per month in the dataset.
+![Image](bar.png)
+*Table 1. Number of calls per month (x-axis is the number of months and y-axis is the number of calls).*
+
+There are a few months where there was significantly less data:
+-   August 7-31 2005 – we have no data for this period and we are actively looking for the data from March 5, 2005 through this period. It was used to retrain Let’s Go. Stay tuned, we will add it as soon as we find it
+-   August 2007 – there were only 458 dialogs. At this time, we had several issues: Microsoft interrupts, Physical plant issues, etc.
+-   August 2010 – this is the time that the Spoken Dialog Challenge 1 was running – the non-CMU participants were responsible for gathering and distributing the dialogs with their systems.
+
+
+
+To learn about how to download the integral Let's Go dataset, please go to [Download](#download).
 
 ### Subset - The Spoken Dialog Challenge
 
-The Spoken Dialog Challenge was an
-exercise to investigate how different spoken
-dialog systems perform on the same
-task. The existing Let’s Go Pittsburgh Bus
-Information System was used as a task and
-four teams provided systems that were first
-tested in controlled conditions with speech
-researchers as users. The three most stable
-systems were then deployed to real callers. 
+The Spoken Dialog Challenge took place in 2010. It compared how different spoken dialog systems perform on the same task. Bus Information was the task. Four teams provided systems that were first tested in controlled conditions with speech researchers as users. The three most stable systems were then deployed to the Let’s Go real callers.
 
-The goal of the Spoken Dialog Challenge (SDC) is to investigate how different dialog systems perform on a similar task. It is designed as a regularly recurring challenge. The first one took place in 2010. SDC participants were to provide one or more of three things: a system; a simulated user,
-and/or an evaluation metric. The task chosen for the first SDC was one that already had a large number of real callers, which was the CMU Let’s Go Bus Information system. (Black et al. 2010 and Black et al. 2011)
+SDC participants were to provide one or more of three things: a system; a simulated user, and/or an evaluation metric. The bus task was chosen for the first SDC because it already had a large number of real callers (Black et al. 2010 and Black et al. 2011).
+
 
 To download The Spoken Dialog Challenge data, please use the script [`get_sdc_data.sh`](./get_sdc_data.sh).
 
@@ -88,30 +99,31 @@ The script will create one directory named **letsgo_sdc** in your current path a
 
 ### Subset - Dialog State Tracking Challenge (DSTC1)
 
-The Dialog State Tracking Challenge (DSTC) is an ongoing series of research community challenge tasks. Each task released dialog data labeled with dialog state information, such as the user’s desired restaurant search query given all of the dialog history up to the current turn. The challenge is to create a “tracker” that can predict the dialog state for new dialogs. In each challenge, trackers are evaluated using held-out dialog data. (Williams et al. 2013)
+The Dialog State Tracking Challenge (DSTC) is an ongoing series of research community challenge tasks. Each DSTC released dialog data labeled with dialog state information, such as the user’s restaurant search query given all of the dialog history up to the current turn. The challenge is to create a “tracker” that can predict the next dialog state. In each challenge, trackers have been evaluated using held-out dialog data. (Williams et al. 2013)
 
-DSTC1 used human-computer dialogs in the CMU Let’s Go Bus Information system.
+DSTC1 used the Let’s Go Bus Information system human-computer dialogs. This dataset has been used for a number of recent publications.
 
 To download DSTC1 data, please go to <https://www.microsoft.com/en-us/research/event/dialog-state-tracking-challenge/>
 
 ### Log of Events and System Changes
-An excel file that describes all significant changes to the system and events such as challenges that occurred.
+
+An Excel logfile describes all significant changes to the system. Changes include: changes to the system architecture: bus schedule changes; changes in the reporting mechanism; events, such as Challenges, etc.
 
 The log file can be found in the directory [`./changelog/overall_lg_map.current.xls`](./changelog/overall_lg_map.current.xls).
 
 ### Crowdsourced Annotations from one year of Let's Go data 
-This contains word transcriptions of each dialog from 200810 to 200909. It includes the WAV file id, ASR outputs with confidence, and crowdsourced transcriptions with confidence. (Parent et al. 2010)
+These annotations are word transcriptions of each dialog from 200810 to 200909. They were made by Amazon Mechanical Turk workers. This dataset includes the WAV file id, ASR output with confidence, and crowdsourced transcriptions with confidence. (Parent et al. 2010).
 
 The log file can be found in the directory [`./annotations/letsgo_transcript_2008_2009_v4.csv`](./annotations/letsgo_transcript_2008_2009_v4.csv).
 
 ### Let's Go Daily Report 2006 - 2016
-The Let's Go Daily Report 2006 - 2016 provides the statistics of the Let's Go bus information system each day that it was deployed from 2006 to 2016. It also includes the weekly summary. (the links in each file)
+The Let's Go Daily Report was emailed to members of the Let’s Go team daily (there is also a weekly summary). The original idea was that the Daily Report would make the team aware of any system malfunctions during the previous evening that the system was not able to directly warn everyone about by email. It covers 2006 – 2016 and gives statistics on the number of dialogs that day, average number of turns per dialog, estimated success rate (via backend lookup), etc. (the links in each file).
 
-The emails reside in the project repository under [`./emails`](https://github.com/DialRC/LetsGoDataset/tree/master/emails) directory.
+These emails reside in the project repository under [`./emails`](https://github.com/DialRC/LetsGoDataset/tree/master/emails) directory.
 
 ## Download
 
-You can obtain the complete Let's Go dataset using the shell script we provide in the repository. e.g. To get Let's Go transactions for data recorded during July 2014 to August 2014, simply do:
+You can obtain the integral Let's Go dataset using the shell script we provide in the repository. e.g. to get Let's Go transactions for data recorded from July 2014 through August 2014, simply do:
 ```
 bash get_letsgo_raw_data.sh 201407 201408
 ```
@@ -120,17 +132,17 @@ The script will create one directory named **letsgo_dataset** in your current pa
 tar xvjf 201407.tar.bz2
 ```
 Notes:
-1. The complete Let's Go dataset is very large (715GB in total). Please make sure you have enough disk space before downloading.
+1. The integral Let's Go dataset is very large (715GB in total). Please make sure you have enough disk space before downloading.
 2. For MacOS users, you need to install GNU `date` (using command `brew install coreutils`) to use the script properly. After GNU coreutils is installed, simply change `date` in the script to `gdate`.
+
 ## Contacts
 If you have more questions about the Let's Go systems and dataset. Please contact us:
-
-[Yulun Du](http://www.cs.cmu.edu/~yulund/) (Carnegie Mellon University)
 
 [Alan W. Black](http://www.cs.cmu.edu/~awb/) (Carnegie Mellon University)
 
 [Maxine Eskenazi](http://www.cs.cmu.edu/~max/) (Carnegie Mellon University)
 
+[Yulun Du](http://www.cs.cmu.edu/~yulund/) (Carnegie Mellon University)
 
 ## References
 
@@ -149,7 +161,7 @@ Jason Williams, Antoine Raux , Deepak Ramachandran, and Alan Black. **The Dialog
 Gabriel Parent and Maxine Eskenazi. **Toward better crowdsourced transcription: Transcription of a year of the let's go bus information system data** in Proc. of SLT, 2010.
 
 ## License
-Please download and agree to the license.
+Please download and agree to the [`License`](LICENSE).
 
 If you download and use the Let's Go data, you agree that you will cite it in all publications resulting from its use.
 
