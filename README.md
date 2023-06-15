@@ -1,12 +1,16 @@
 # The Integral LET'S GO! Dataset
 
-This repository contains the integral Let's Go! dataset, obtained from use of the Let’s Go dialog system and its derivatives. The Let’s Go data and system have been used in over 22 theses and over 250 non-CMU publications. Let’s Go was funded by the National Science Foundation. Arguably the largest publicly available real user dataset at the time of its release, Let’s Go went live to real users on March 5, 2005. The Let’s Go system was connected to the public information phone number for the Port Authority of Allegheny County. During daytime, human operators manned this number, but after 7pm and until 6am the next day, and for longer periods on the weekends, all calls were routed to Let’s Go. The route schedule changed three to four times a year with some routes being eliminated over time. Let’s Go began with coverage of only the East End neighborhoods of Pittsburgh, but in later years it covered all of the Port Authority’s routes. The logfile of all changes made to the system can be found in [`./changelog/overall_lg_map.current.xls`](./changelog/overall_lg_map.current.xls).
+This repository contains the integral Let's Go! dataset, which was originally provided by the Language Technology Institute of Carnegie Mellon University in Pittsburgh and has now moved to the Natural Langauge Generation and Dialogue Systems group at the University of Bamberg, Germany.
+
+ The dataset was obtained from use of the Let’s Go dialog system and its derivatives. The Let’s Go data and system have been used in over 22 theses and over 250 non-CMU publications. Let’s Go was funded by the National Science Foundation. Arguably the largest publicly available real user dataset at the time of its release, Let’s Go went live to real users on March 5, 2005. The Let’s Go system was connected to the public information phone number for the Port Authority of Allegheny County. During daytime, human operators manned this number, but after 7pm and until 6am the next day, and for longer periods on the weekends, all calls were routed to Let’s Go. The route schedule changed three to four times a year with some routes being eliminated over time. Let’s Go began with coverage of only the East End neighborhoods of Pittsburgh, but in later years it covered all of the Port Authority’s routes. The logfile of all changes made to the system can be found in [`./changelog/overall_lg_map.current.xls`](./changelog/overall_lg_map.current.xls).
 
 There are a total of 171,128 dialogs in this Let’s Go dataset. A total of 104,663 of these are at least three turns long. This is important since it is the minimum length needed in order for the system to get enough information for a backend lookup (and thus possibly have a successful dialog). But the user could have repeated information or changed a request and so not filled all of the slots in three turns. A total of 93,690 dialogs in this dataset had a backend lookup. This is the measure (at least three turns and a backend lookup) that the Let’s Go team used for the estimated success rate.  We note that although it means that the system found information and gave it to the user, this is only an estimation of success since the system could have looked up and given the wrong information (due to ASR errors, for example), but it was at the time one indication that allowed the ream to compare different versions of the system. For example, during the switch from the system-directed “where are you leaving from” to the more general “How can I help you?”, the estimated success rate was used at first to determine whether the system could deal with the general question.
 
 Please note the license for use of this data [License](#license). Please agree to this license before downloading the data.
 
-The instructions for downloading the dataset are straightforward. Please create a GitHub issue if you encounter a problem and our team will assist you as soon as possible. To get started, go to the introduction.
+The instructions for downloading the dataset are straightforward.
+
+The data is now hosted by the Natural Language Generation and Dialogue Systems group at University of Bamberg, Germany.
 
 
 * [Introduction](#intro)
@@ -20,9 +24,9 @@ The instructions for downloading the dataset are straightforward. Please create 
 ## Introduction
 Let’s Go! is a spoken dialog system that was used by the general public. Let’s Go! gave bus information scheduling for the Allegheny County Port Authority Transit bus system via a telephone-based interface to access bus schedules and route information.
 
-The project page is at <http://www.speech.cs.cmu.edu/letsgo/>
+<!--The project page is at <http://www.speech.cs.cmu.edu/letsgo/>-->
 
-**NEWS: Let’s Go has been integrated with the DialPort project. You can talk to it by going [here](http://dialport.org) and asking for bus schedules.**
+<!-- Let’s Go has been integrated with the DialPort project. You can [talk to it](http://dialport.org) and ask for bus schedules.-->
 
 ## Description
 
@@ -88,7 +92,6 @@ The Spoken Dialog Challenge took place in 2010. It compared how different spoken
 
 SDC participants were to provide one or more of three things: a system; a simulated user, and/or an evaluation metric. The bus task was chosen for the first SDC because it already had a large number of real callers (Black et al. 2010 and Black et al. 2011).
 
-
 To download The Spoken Dialog Challenge data, please use the script [`get_sdc_data.sh`](./get_sdc_data.sh).
 
 ```
@@ -136,13 +139,10 @@ Notes:
 2. For MacOS users, you need to install GNU `date` (using command `brew install coreutils`) to use the script properly. After GNU coreutils is installed, simply change `date` in the script to `gdate`.
 
 ## Contacts
-If you have more questions about the Let's Go systems and dataset. Please contact us:
+If you have more questions about the Let's Go systems and dataset, please contact:
 
-[Alan W. Black](http://www.cs.cmu.edu/~awb/) (Carnegie Mellon University)
+[Stefan Ultes](https://www.uni-bamberg.de/ds/team/ultes) (University of Bamberg)
 
-[Maxine Eskenazi](http://www.cs.cmu.edu/~max/) (Carnegie Mellon University)
-
-[Yulun Du](http://www.cs.cmu.edu/~yulund/) (Carnegie Mellon University)
 
 ## References
 
